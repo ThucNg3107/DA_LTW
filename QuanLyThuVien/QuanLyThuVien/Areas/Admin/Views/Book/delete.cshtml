@@ -1,0 +1,51 @@
+﻿@model QuanLyThuVien.Models.Book
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "Delete Book";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container d-flex justify-content-center align-items-center min-vh-100">
+    <div class="card shadow-lg p-4 rounded-4 text-center" style="max-width: 600px; backdrop-filter: blur(15px); background: rgba(0, 0, 0, 0.5); border: 1px solid rgba(255, 255, 255, 0.2);">
+        <h2 class="text-danger fw-bold">🚨 Delete Book</h2>
+        <p class="text-light mt-3">Are you sure you want to delete this book? This action <strong>cannot be undone</strong>.</p>
+
+        <div class="mb-3 text-white">
+            <h5>📖 <span class="fw-bold">Book Name:</span> <span class="text-warning">@Model.Name</span></h5>
+            <h5>✍️ <span class="fw-bold">Author:</span> <span class="text-warning">@Model.Author</span></h5>
+            <h5>🏢 <span class="fw-bold">Publisher:</span> <span class="text-warning">@Model.Publisher</span></h5>
+            <h5>📅 <span class="fw-bold">Published Year:</span> <span class="text-warning">@Model.PublishedYear</span></h5>
+            <h5>📌 <span class="fw-bold">Status:</span> <span class="text-warning">@Model.BookStatus</span></h5>
+        </div>
+
+        <div class="mb-3">
+            @if (!string.IsNullOrEmpty(Model.ImageUrl))
+            {
+                <img src="@Model.ImageUrl" alt="Book Image" class="img-thumbnail rounded shadow-lg" style="max-width: 250px; border: 3px solid rgba(255,255,255,0.5);">
+            }
+            else
+            {
+                <p class="text-warning">⚠ No Image Available</p>
+            }
+        </div>
+
+        <form asp-action="Delete" asp-route-id="@Model.BookId" method="post" id="deleteForm">
+            <input type="hidden" asp-for="BookId" />
+            <div class="d-flex justify-content-center gap-3">
+                <button type="button" class="btn btn-danger btn-lg px-4" onclick="confirmDelete()">🗑️ Delete</button>
+                <a asp-action="Index" class="btn btn-outline-light btn-lg px-4">❌ Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function confirmDelete() {
+            if (confirm("Are you sure you want to delete this book?")) {
+                document.getElementById("deleteForm").submit();
+            }
+        }
+    </script>
+}

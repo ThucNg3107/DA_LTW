@@ -1,0 +1,75 @@
+﻿@model QuanLyThuVien.Models.Book
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@using Microsoft.AspNetCore.Mvc.Rendering
+
+@{
+    ViewData["Title"] = "Add Book";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-lg p-4 rounded-4" style="max-width: 600px; margin: 0 auto;">
+        <h2 class="text-center text-black mb-4">📖 Thêm Sách Mới</h2>
+        <form asp-action="Add" method="post" enctype="multipart/form-data">
+            <div class="mb-3">
+                <label asp-for="Name" class="form-label fw-bold">Tên Sách</label>
+                <input asp-for="Name" class="form-control" placeholder="Enter book name" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Author" class="form-label fw-bold">Tác Giả</label>
+                <input asp-for="Author" class="form-control" placeholder="Enter author's name" />
+                <span asp-validation-for="Author" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Publisher" class="form-label fw-bold">Nhà Xuất Bản</label>
+                <input asp-for="Publisher" class="form-control" placeholder="Enter publisher name" />
+                <span asp-validation-for="Publisher" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="PublishedYear" class="form-label fw-bold">Năm Xuất Bản</label>
+                <input asp-for="PublishedYear" type="number" class="form-control" placeholder="Enter published year" />
+                <span asp-validation-for="PublishedYear" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="CategoryId" class="form-label fw-bold">Thể Loại</label>
+                <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-select">
+                    <option value="">-- Danh Mục --</option>
+                </select>
+                <span asp-validation-for="CategoryId" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label fw-bold">Hình Ảnh</label>
+                <input type="file" name="ImageFile" class="form-control" id="imageUpload" onchange="previewImage(event)" />
+                <div class="text-center mt-2">
+                    <img id="imagePreview" src="@Model?.ImageUrl" class="img-thumbnail mt-2" style="max-width: 200px; display: @(string.IsNullOrEmpty(Model?.ImageUrl) ? "none" : "block");" />
+                </div>
+            </div>
+
+
+            <div class="d-flex justify-content-between">
+                <button type="submit" class="btn btn-success w-48">✔ Thêm</button>
+                <a asp-action="Index" class="btn btn-outline-black w-48">↩ Trở Lại</a>
+            </div>
+
+        </form>
+    </div>
+</div>
+
+<script>
+    function previewImage(event) {
+        var reader = new FileReader();
+        reader.onload = function () {
+            var output = document.getElementById('imagePreview');
+            output.src = reader.result;
+            output.style.display = 'block';
+        };
+        reader.readAsDataURL(event.target.files[0]);
+    }
+</script>

@@ -1,0 +1,106 @@
+﻿@model QuanLyThuVien.Models.Book
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "Chi Tiết Sách";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container py-5">
+    <div class="card shadow-lg border-0 rounded-4">
+        <div class="card-body p-5">
+            <div class="row">
+                <!-- Phần ảnh sách -->
+                <div class="col-md-4 text-center mb-4 mb-md-0">
+                    @if (!string.IsNullOrEmpty(Model.ImageUrl))
+                    {
+                        <img src="@Model.ImageUrl" alt="@Model.Name" class="img-fluid rounded-4 shadow" style="max-height: 400px; object-fit: cover;">
+                    }
+                    else
+                    {
+                        <div class="bg-light p-5 rounded-4 d-flex align-items-center justify-content-center" style="height: 300px;">
+                            <h4 class="text-muted">Không có ảnh</h4>
+                        </div>
+                    }
+
+                    <!-- Trạng thái và nút mượn sách -->
+                    <div class="mt-4">
+                        <h5>
+                            <span class="badge @(Model.BookStatus == QuanLyThuVien.Models.Book.Status.Available ? "bg-success" :
+                                               (Model.BookStatus == QuanLyThuVien.Models.Book.Status.Borrowed ? "bg-warning" : "bg-danger")) px-4 py-2 fs-6">
+                                @if (Model.BookStatus == QuanLyThuVien.Models.Book.Status.Available)
+                                {
+                                    @:✔ Còn hàng
+                                }
+                                else if (Model.BookStatus == QuanLyThuVien.Models.Book.Status.Borrowed)
+                                {
+                                    @:📚 Đang mượn
+                                }
+                                else
+                                {
+                                    @:❌ Hết hàng
+                                }
+                            </span>
+                        </h5>
+
+                        @if (Model.BookStatus == QuanLyThuVien.Models.Book.Status.Available)
+                        {
+                            <form asp-action="RentBook" method="post" class="mt-3">
+                                <input type="hidden" name="bookId" value="@Model.BookId" />
+                                <button type="submit" class="btn btn-success btn-lg px-5">
+                                    <i class="bi bi-book"></i> Mượn Sách Này
+                                </button>
+                            </form>
+                        }
+                        else
+                        {
+                            <button disabled class="btn btn-secondary btn-lg px-5 mt-3">
+                                <i class="bi bi-x-circle"></i> Không Có Sẵn
+                            </button>
+                        }
+                    </div>
+                </div>
+
+                <!-- Thông tin chi tiết sách -->
+                <div class="col-md-8">
+                    <h2 class="fw-bold text-primary mb-4">@Model.Name</h2>
+
+                    <div class="row mb-3">
+                        <div class="col-md-4 fw-bold text-muted">Tác giả:</div>
+                        <div class="col-md-8">@Model.Author</div>
+                    </div>
+
+                    <div class="row mb-3">
+                        <div class="col-md-4 fw-bold text-muted">Nhà xuất bản:</div>
+                        <div class="col-md-8">@Model.Publisher</div>
+                    </div>
+
+                    <div class="row mb-3">
+                        <div class="col-md-4 fw-bold text-muted">Năm xuất bản:</div>
+                        <div class="col-md-8">@Model.PublishedYear</div>
+                    </div>
+
+                    <div class="row mb-3">
+                        <div class="col-md-4 fw-bold text-muted">Thể loại:</div>
+                        <div class="col-md-8">
+                            <span class="badge bg-info text-dark px-3 py-2">@Model.Category?.Name</span>
+                        </div>
+                    </div>
+
+                    <div class="row mb-3">
+                        <div class="col-md-4 fw-bold text-muted">Mã sách:</div>
+                        <div class="col-md-8">@Model.BookId</div>
+                    </div>
+
+                    <hr class="my-4" />
+
+                    <div class="d-flex justify-content-between">
+                        <a asp-action="Index" class="btn btn-outline-primary px-4">
+                            <i class="bi bi-arrow-left"></i> Quay Lại Danh Sách
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,182 @@
+﻿
+body {
+    font-size: 62.5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    font-size: 1rem;
+}
+
+.login {
+    width: 500px;
+    height: 450px;
+    padding: 50px;
+    border-radius: 12px;
+    background-color: #E0EEEE;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #E0EEEE;
+}
+
+h2 {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Arial Black', sans-serif; /* Chọn font chữ đậm, nổi bật */
+    /* Hoặc có thể sử dụng các font chữ khác như: 'Helvetica Neue', sans-serif; 'Segoe UI', Tahoma, sans-serif; */
+    font-weight: bold; /* Đảm bảo chữ đậm */
+    color:  lightcyan;
+}
+
+
+
+
+
+
+
+
+
+
+
+body {
+    background-color: #E0EEEE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-size: 62.5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.login-container {
+    display: flex;
+    width: 1000px; /* Điều chỉnh chiều rộng container */
+    background-color: #F0FFFF; /* Màu nền cho container */
+    border-radius: 60px; /* Bo tròn góc container */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden; /* Ẩn nội dung tràn ra ngoài */
+    margin: 50px 0;
+}
+
+.login-left {
+    flex: 1; /* Chiếm 1 phần không gian */
+    padding: 0px;
+    text-align: center;
+    background: linear-gradient(to right, #e91e63, #9c27b0); /* Gradient màu */
+    color: white; /* Màu chữ trắng */
+}
+
+    .login-left img {
+        margin-top: 30px;
+        max-width: 50%;
+        height: auto;
+        margin-bottom: 20px;
+    }
+
+    .login-left h2 {
+        font-size: 2rem;
+        margin-bottom: 10px;
+    }
+
+    .login-left p {
+        font-size: 1.4rem;
+    }
+
+.login-box {
+    flex: 1; /* Chiếm 1 phần không gian */
+    padding: 10px;
+    border-left: 1px solid #ddd; /* Đường kẻ phân cách */
+}
+
+    .login-box h2 {
+        font-size: 2.5rem;
+        text-align: center;
+        margin-bottom: 20px;
+        font-family: 'Arial Black', sans-serif;
+        font-weight: bold;
+    }
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+    .form-group label {
+        display: block;
+        margin-bottom: 5px;
+    }
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd; /* Giảm độ dày border */
+    border-radius: 4px;
+}
+
+.form-check {
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #e91e63;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 100%;
+}
+
+.or-login {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.social-login {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+.btn-facebook, .btn-google {
+    padding: 8px 15px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    width: 120px; /* Thiết lập chiều rộng bằng nhau */
+    height: 40px; /* Thiết lập chiều cao bằng nhau */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-facebook {
+    background-color: #1877f2;
+    margin-right: 0px;
+}
+
+.btn-google {
+    background-color: #db4437;
+}
+
+.signup-link {
+    text-align: center;
+    margin-top: 20px;
+}
+
+    .signup-link a {
+        color: #e91e63;
+        text-decoration: none;
+    }
+
+
+
+
+
+

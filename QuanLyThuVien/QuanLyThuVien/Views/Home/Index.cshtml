@@ -1,0 +1,299 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model IEnumerable<QuanLyThuVien.Models.Book>
+
+<!-- Thanh menu -->
+<header class="thanh-menu py-3 fixed-top">
+    <div class="container d-flex align-items-center justify-content-between">
+        <!-- Logo bên trái -->
+        <div class="logo-tieu-de d-flex align-items-center">
+            <img src="https://img.freepik.com/premium-vector/open-book-lying-table-with-buildings-background-clear-sky-develop-sleek-modern-logo-online-bookstore-specializing-rare-vintage-books_538213-49642.jpg"
+                 alt="Logo" class="logo-tron me-3" width="50" />
+            <h2 class="fw-bold m-0">PHT Library</h2>
+        </div>
+
+        <!-- Menu điều hướng căn giữa -->
+        <nav class="flex-grow-1 text-center">
+            <ul class="thanh-dieu-huong nav justify-content-center">
+                <li class="nav-item"><a href="@Url.Action("Index", "Home")" class="nav-link text-white">Trang Chủ</a></li>
+                <li class="nav-item"><a href="#gioi-thieu" class="nav-link text-white">Giới Thiệu</a></li>
+                <li class="nav-item"><a href="#sach-noi-bat" class="nav-link text-white">Sách</a></li>
+                <li class="nav-item"><a href="#lien-he" class="nav-link text-white">Liên hệ</a></li>
+				<li class="nav-item"><a href="@Url.Action("Index", "SachChiTiet")" class="nav-link text-white btn btn-info rounded-pill">Sách Chi Tiết </a>
+				<li class="nav-item"><a href="@Url.Action("Index", "Admin")" class="nav-link text-white">Quản Trị</a></li>
+                </li>
+            </ul>
+        </nav>
+
+        <!-- Nút Đăng nhập/Đăng ký bên phải -->
+        <div class="d-flex align-items-center">
+            <partial name="_LoginPartial" />
+        </div>
+    </div>
+</header>
+
+    <!-- Ảnh giới thiệu -->
+    <div class="anhgioithieu-container mt-5">
+        <img src="https://img.freepik.com/premium-vector/happy-people-studying-reading-public-library_1323048-3260.jpg"
+             alt="Ảnh giới thiệu"
+             class="anhgioithieu" />
+        <div class="overlay">
+            <div class="overlay-text">
+                <h1>Chào Mừng Bạn Đến Với <span>PHT LIBRARY</span></h1>
+                <p>Mua Sách, Tặng Tri Thức Cho Chính Mình Và Người Thân.</p>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Giới Thiệu-->
+    <section id="gioi-thieu" class="container my-5">
+        <h2 class="text-center mb-4">Giới Thiệu</h2>
+        <div class="row align-items-center">
+            <!-- Hình ảnh minh họa -->
+            <div class="col-md-6 mb-4 mb-md-0">
+                <img src="https://edupace.vn/tin/wp-content/uploads/2024/02/quan-ly-thu-vien-1.png" alt="Thư viện hiện đại" class="img-fluid rounded shadow">
+            </div>
+
+            <!-- Nội dung giới thiệu -->
+            <div class="col-md-6">
+                <p class="fs-5 text-muted">
+                    Hệ thống <strong>PHT Library</strong> được xây dựng với mục tiêu tạo ra một không gian quản lý thư viện hiện đại, dễ sử dụng và thân thiện với người dùng. Tại đây, bạn có thể quản lý sách, danh mục, đánh giá, tìm kiếm nhanh chóng và hiệu quả.
+                </p>
+                <p class="fs-5 text-muted">
+                    Chúng tôi cam kết mang đến một trải nghiệm đọc sách và quản lý thư viện tiện lợi nhất. Tất cả thao tác từ thêm sách, sửa, xóa, phân loại đến đánh giá đều được xử lý mượt mà, tiết kiệm thời gian và công sức.
+                </p>
+                <p class="fs-5 text-muted">
+                    Website quản lý thư viện được thiết kế với giao diện đơn giản. Sản phẩm hướng đến việc hỗ trợ thư viện trong việc quản lý sách, theo dõi mượn – trả và phục vụ nhu cầu tìm kiếm sách nhanh chóng cho độc giả. Giao diện đảm bảo tính thẩm mỹ và hiển thị tốt trên mọi thiết bị. Các chức năng được bố trí khoa học, giúp người dùng thao tác dễ dàng và tiết kiệm thời gian.
+                </p>
+            </div>
+        </div>
+    </section>
+
+
+<!-- Quản Lý Kho -->
+<section id="sach-noi-bat" class="container my-5" style="background-color: #f9f9f9;">
+    <h2 class="text-center mb-4">Sách</h2>
+    <!-- Danh sách sách -->
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card">
+                <img src="https://stbook.vn/static/covers/CP111BK120211115135135/cover.clsbi"
+                     class="card-img-top"
+                     alt="Kinh tế chính trị Mác-lênin" />
+                <div class="card-body">
+                    <h5 class="card-title">Kinh tế chính trị Mác-lênin</h5>
+                    <p class="card-text">Văn Học</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img src="https://file3.qdnd.vn/data/images/0/2024/05/16/upload_2072/sach%20qpan%201.png"
+                     class="card-img-top"
+                     alt="giáo dục quốc phòng " />
+                <div class="card-body">
+                    <h5 class="card-title">Giáo dục quốc phòng</h5>
+                    <p class="card-text">Văn Học</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img src="https://gcs.tripi.vn/public-tripi/tripi-feed/img/473874rTj/bi-quyet-hoi-hoa-luyen-ve-hinh-khoi-662418.jpg"
+                     class="card-img-top"
+                     alt="Kĩ năng hội họa" />
+                <div class="card-body">
+                    <h5 class="card-title">Kĩ năng hội họa</h5>
+                    <p class="card-text">Nghệ Thuật </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img src="https://www.nxbctqg.org.vn/img_data/images/710763606098_tinh-cam-nhan-dan.jpg"
+                     class="card-img-top"
+                     alt="Tình cảm nhân dân" />
+                <div class="card-body">
+                    <h5 class="card-title">Tình cảm nhân dân</h5>
+                    <p class="card-text">Tình Cảm</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img src="https://dinhtibooks.com.vn/images/products/large/5_7fa6a5e7b841476bab8c6a7534488f7e.webp"
+                     class="card-img-top"
+                     alt="Trái đất và vũ trụ" />
+                <div class="card-body">
+                    <h5 class="card-title">Trái đất và vũ trụ</h5>
+                    <p class="card-text">Nghiên Cứu</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img src="https://imgnvsk.vnanet.vn/MediaUpload/Content/2023/11/23/240-13072022NguyenDinhChieu.jpg"
+                     class="card-img-top"
+                     alt="Văn hóa nghệ thuật " />
+                <div class="card-body">
+                    <h5 class="card-title">Văn hóa nghệ thuật</h5>
+                    <p class="card-text">Nghệ Thuật</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img src="https://down-vn.img.susercontent.com/file/4adfa87be565553845f0ae0df87445d9"
+                     class="card-img-top"
+                     alt="Nghệ thuật ca hát" />
+                <div class="card-body">
+                    <h5 class="card-title">Nghệ thuật ca hát</h5>
+                    <p class="card-text">Âm nhạc</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img src="https://mcbooks.vn/wp-content/uploads/2019/11/bai-tap-tieng-Han-So-cap-1-bia-sau.png"
+                     class="card-img-top"
+                     alt="Sách học tiếng Hàn" />
+                <div class="card-body">
+                    <h5 class="card-title">Sách học tiếng Hàn</h5>
+                    <p class="card-text">Ngoại ngữ</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img src="https://simg.zalopay.com.vn/zlp-website/assets/sach_tam_ly_hay_nhat_Tam_ly_hoc_dam_dong_33cba04cf8.jpg"
+                     class="card-img-top"
+                     alt="Làm chủ bản thân" />
+                <div class="card-body">
+                    <h5 class="card-title">Làm chủ bản thân</h5>
+                    <p class="card-text">Tâm lý</p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</section>
+
+
+
+
+
+
+
+    <!-- Liên hệ -->
+    <section id="lien-he" class="container my-5 py-5">
+        <!-- Section Title -->
+        <div class="text-center mb-5" data-aos="fade-up">
+            <h2 class="text-center mb-1">Liên Hệ</h2>
+        </div>
+        <div class="contact-wrapper p-4 p-md-5">
+            <div class="row gy-4 align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+                <!-- Thông tin liên hệ -->
+                <div class="col-lg-5">
+                    <div class="bg-light rounded-4 shadow-sm p-4 h-100">
+                        <div class="d-flex mb-4 align-items-start">
+                            <i class="bi bi-geo-alt fs-3 text-primary me-3"></i>
+                            <div>
+                                <h5 class="fw-bold mb-1">Địa Chỉ</h5>
+                                <p class="mb-0">📍475A Điện Biên Phủ,P.25,Q.Bình Thạnh, TP.HCM</p>
+                                <p class="mb-0">Ho Chi Minh City, Vietnam</p>
+                            </div>
+                        </div>
+
+                        <div class="d-flex mb-4 align-items-start">
+                            <i class="bi bi-telephone fs-3 text-primary me-3"></i>
+                            <div>
+                                <h5 class="fw-bold mb-1">Số Điện Thoại</h5>
+                                <p class="mb-0"> 📞0123 456 789</p>
+                            </div>
+                        </div>
+
+                        <div class="d-flex mb-4 align-items-start">
+                            <i class="bi bi-envelope fs-3 text-primary me-3"></i>
+                            <div>
+                                <h5 class="fw-bold mb-1">Email</h5>
+                                <p class="mb-0"> 📧support@phtlibrary.com</p>
+                            </div>
+                        </div>
+
+                        <div class="ratio ratio-4x3 rounded overflow-hidden">
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3546.602547617547!2d106.71264407451746!3d10.801860458725118!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528a459cb43ab%3A0x6c3d29d370b52a7e!2zSFVURUNIIC0gxJDhuqFpIGjhu41jIEPDtG5nIG5naOG7hyBUUC5IQ00gKFNhaSBHb24gQ2FtcHVzKQ!5e1!3m2!1svi!2s!4v1742633366866!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Form liên hệ -->
+                <div class="col-lg-7">
+                    <div class="bg-white rounded-4 shadow-sm p-4 h-100">
+                        <form asp-action="Contact" asp-controller="Home" method="post">
+                            <div class="row gy-3">
+                                <div class="col-md-6">
+                                    <label for="name-field" class="form-label">Họ và Tên</label>
+                                    <input type="text" name="name" id="name-field" class="form-control rounded-pill" required>
+                                </div>
+
+                                <div class="col-md-6">
+                                    <label for="email-field" class="form-label">Email</label>
+                                    <input type="email" class="form-control rounded-pill" name="email" id="email-field" required>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <label for="subject-field" class="form-label">Chủ Đề</label>
+                                    <input type="text" class="form-control rounded-pill" name="subject" id="subject-field" required>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <label for="message-field" class="form-label">Nội Dung</label>
+                                    <textarea class="form-control rounded-3" name="message" rows="7" id="message-field" required></textarea>
+                                </div>
+
+                                <div class="col-12 text-center mt-3">
+                                    <button type="submit" class="btn btn-primary px-5 py-2 rounded-pill fw-bold">Gửi Thông Tin</button>
+                                    <div class="sent-message text-success">Tin nhắn của bạn đã được gửi. Cảm ơn!</div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Footer mở rộng -->
+    <footer class="footer text-white py-1">
+        <div class="container text-center">
+            <p>
+                📍 475A Điện Biên Phủ,P.25,Q.Bình Thạnh, TP.HCM | 📞 0123 456 789 | 📧
+                support@phtlibrary.com
+            </p>
+            <ul class="list-inline">
+                <li class="list-inline-item">
+                    <a href="#" class="text-white">Chính sách bảo mật</a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="#" class="text-white">Điều khoản sử dụng</a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="#" class="text-white">Liên hệ</a>
+                </li>
+            </ul>
+            <p>&copy; 2025 PHT Library. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="site.css" />
+
+</html>
+

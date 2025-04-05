@@ -1,0 +1,54 @@
+﻿@model LinkedList<InfoBook>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<main>
+    <h2 class="lv2">Danh sách sách</h2>
+    <div class="text-start d-flex justify-content-between" style="margin: 12px 0;">
+        <a asp-controller="QuanLySach" asp-action="Create" class="btn btn-outline-primary">
+            <i class="bi bi-plus-circle"></i>&nbsp; Tạo mới
+        </a>
+        <form method="post" class="d-flex" asp-controller="QuanLySach" asp-action="SearchSach">
+            <input class="form-control me-sm-1" type="search" required name="searchInput" placeholder="Search">
+            <button class="btn btn-primary" type="submit">Search</button>
+        </form>
+    </div>
+    <table class="table table-hover">
+        <thead>
+            <tr class="table-primary">
+                <th scope="col">Id</th>
+                <th scope="col">Tên sách</th>
+                <th scope="col">Tác giả</th>
+                <th scope="col">Thể loại</th>
+                <th scope="col">Số lượng</th>
+                <th scope="col">Quốc gia</th>
+                <th scope="col">Hành động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th scope="row">@item.Sach.ID_Sach</th>
+                    <td>@item.Sach.TenSach</td>
+                    <td>@item.TacGia.TenTacGia</td>
+                    <td>@item.TheLoai.TenTheLoai</td>
+                    <td>@item.Sach.SoLuong</td>
+                    <td>@item.TacGia.QuocGia</td>
+                    <td>
+                        <a asp-controller="QuanLySach" asp-action="ViewEdit" asp-route-id="@item.Sach.ID_Sach" class="btn btn-outline-primary" title="Sửa">
+                            <i class="bi bi-gear"></i>
+                        </a>
+                        <a asp-controller="QuanLySach" asp-action="Delete" asp-route-id="@item.Sach.ID_Sach" class="btn btn-outline-danger" style="margin: 0 8px;" title="Xóa">
+                            <i class="bi bi-trash3"></i>
+                        </a>
+                        <a asp-controller="QuanLySach" asp-action="Details" asp-route-id="@item.Sach.ID_Sach" class="btn btn-outline-primary" title="Xem chi tiết">
+                            <i class="bi bi-info-circle"></i>
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</main>

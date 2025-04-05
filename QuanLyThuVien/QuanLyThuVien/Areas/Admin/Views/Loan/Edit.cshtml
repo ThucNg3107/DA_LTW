@@ -1,0 +1,57 @@
+﻿@model QuanLyThuVien.Models.Loan
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+@{
+    ViewData["Title"] = "Sửa mượn sách";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container d-flex justify-content-center align-items-center min-vh-100">
+    <div class="card shadow-lg p-4 rounded-4 text-center bg-light text-black" style="max-width: 600px;">
+        <h2 class="fw-bold">✏️ Sửa Mượn Sách</h2>
+        <hr class="bg-light">
+
+        <form asp-action="Edit" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="LoanId" />
+            
+            <div class="form-group mb-3">
+                <label asp-for="BookId" class="fw-bold">Sách</label>
+                <select asp-for="BookId" class="form-control rounded-pill border-0 shadow-sm" asp-items="ViewBag.Books">
+                    <option value="">-- Chọn sách --</option>
+                </select>
+                <span asp-validation-for="BookId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="CardId" class="fw-bold">Thẻ thư viện</label>
+                <select asp-for="CardId" class="form-control rounded-pill border-0 shadow-sm" asp-items="ViewBag.LibraryCards">
+                    <option value="">-- Chọn thẻ thư viện --</option>
+                </select>
+                <span asp-validation-for="CardId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="BorrowedDate" class="fw-bold">Ngày mượn</label>
+                <input asp-for="BorrowedDate" type="date" class="form-control rounded-pill border-0 shadow-sm" />
+                <span asp-validation-for="BorrowedDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="DueDate" class="fw-bold">Hạn trả</label>
+                <input asp-for="DueDate" type="date" class="form-control rounded-pill border-0 shadow-sm" />
+                <span asp-validation-for="DueDate" class="text-danger"></span>
+            </div>
+
+            <div class="mt-4 text-center">
+                <button type="submit" class="btn btn-warning fw-bold btn-lg rounded-pill px-4 shadow-sm">✔ Cập nhật</button>
+                <a asp-action="Index" class="btn btn-outline-dark fw-bold btn-lg rounded-pill px-4 shadow-sm">✖ Trở Lại</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

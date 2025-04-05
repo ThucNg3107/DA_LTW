@@ -1,0 +1,43 @@
+﻿@model QuanLyThuVien.Models.Book
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "Details Book";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+
+}
+<div class="container d-flex justify-content-center align-items-center min-vh-100">
+    <div class="card shadow-lg p-4 rounded-4 text-center" style="max-width: 600px; backdrop-filter: blur(15px); background: rgba(0, 0, 0, 0.6); border: 1px solid rgba(255, 255, 255, 0.2);">
+        <h2 class="text-light fw-bold">📖 Book Details</h2>
+        <hr class="bg-light">
+
+        <div class="mb-4 text-white">
+            <h5>📌 <span class="fw-bold">Book Name:</span> <span class="text-warning">@Model.Name</span></h5>
+            <h5>✍️ <span class="fw-bold">Author:</span> <span class="text-warning">@Model.Author</span></h5>
+            <h5>🏢 <span class="fw-bold">Publisher:</span> <span class="text-warning">@Model.Publisher</span></h5>
+            <h5>📅 <span class="fw-bold">Published Year:</span> <span class="text-warning">@Model.PublishedYear</span></h5>
+            <h5>📂 <span class="fw-bold">Category:</span> <span class="text-warning">@Model.Category?.Name</span></h5>
+            <h5>📖 <span class="fw-bold">Status:</span>
+                <span class="badge @(Model.BookStatus == QuanLyThuVien.Models.Book.Status.Available ? "bg-success" : "bg-danger") fs-6 px-3 py-2">
+                    @(Model.BookStatus == QuanLyThuVien.Models.Book.Status.Available ? "✔ Available" : "❌ Out of Stock")
+                </span>
+            </h5>
+        </div>
+
+        <div class="mb-3 text-center">
+            @if (!string.IsNullOrEmpty(Model.ImageUrl))
+            {
+                <img src="@Model.ImageUrl" alt="Book Image" class="img-thumbnail rounded-4 shadow-lg" style="max-width: 250px; border: 3px solid rgba(255,255,255,0.5);">
+            }
+            else
+            {
+                <p class="text-warning">🚫 No Image Available</p>
+            }
+        </div>
+
+        <div class="text-center">
+            <a asp-action="Index" asp-controller="Book" class="btn btn-outline-light btn-lg px-5 py-2">🔙 Back to List</a>
+        </div>
+    </div>
+</div>
+

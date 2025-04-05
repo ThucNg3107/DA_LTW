@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chi Tiết Sách</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <style>
+        .book-detail {
+            margin-top: 50px;
+        }
+
+            .book-detail img {
+                max-width: 100%;
+                border-radius: 10px;
+            }
+
+            .book-detail h2 {
+                font-weight: bold;
+                margin-bottom: 20px;
+            }
+
+            .book-detail p {
+                font-size: 1.1rem;
+            }
+    </style>
+</head>
+<body>
+    <div class="container book-detail">
+        <div class="row">
+            <div class="col-md-5">
+                <img id="bookImage" src="" alt="Ảnh sách">
+            </div>
+            <div class="col-md-7">
+                <h2 id="bookTitle">Tiêu đề sách</h2>
+                <p id="bookCategory">Thể loại</p>
+                <p id="bookDescription">Mô tả sách...</p>
+            </div>
+        </div>
+    </div>
+
+    
+    <script src="/js/site.js"></script>
+    <script src="/js/book.js"></script>
+    <script src="/js/detail.js"></script>
+
+</body>
+</html>

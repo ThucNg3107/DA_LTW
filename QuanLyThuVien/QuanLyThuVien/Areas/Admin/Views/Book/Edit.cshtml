@@ -1,0 +1,91 @@
+﻿@model QuanLyThuVien.Models.Book
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using Microsoft.AspNetCore.Mvc.Rendering
+@using QuanLyThuVien.Models
+
+@{
+    ViewData["Title"] = "Edit Book";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container d-flex justify-content-center align-items-center min-vh-100">
+    <div class="card shadow-lg p-4 rounded-4 text-center" style="max-width: 600px; backdrop-filter: blur(15px); background: rgba(0, 0, 0, 0.6); border: 1px solid rgba(255, 255, 255, 0.2);">
+        <h2 class="text-light fw-bold">✏ Edit Book</h2>
+        <hr class="bg-light">
+
+        <form asp-action="Edit" method="post" enctype="multipart/form-data">
+            <input type="hidden" asp-for="BookId" />
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <!-- Book Name -->
+            <div class="form-group mb-3">
+                <label asp-for="Name" class="fw-bold text-light">📖 Book Name</label>
+                <input asp-for="Name" class="form-control rounded-pill border-0 shadow-sm" required />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <!-- Author -->
+            <div class="form-group mb-3">
+                <label asp-for="Author" class="fw-bold text-light">✍️ Author</label>
+                <input asp-for="Author" class="form-control rounded-pill border-0 shadow-sm" required />
+                <span asp-validation-for="Author" class="text-danger"></span>
+            </div>
+
+            <!-- Publisher -->
+            <div class="form-group mb-3">
+                <label asp-for="Publisher" class="fw-bold text-light">🏢 Publisher</label>
+                <input asp-for="Publisher" class="form-control rounded-pill border-0 shadow-sm" required />
+                <span asp-validation-for="Publisher" class="text-danger"></span>
+            </div>
+
+            <!-- Published Year -->
+            <div class="form-group mb-3">
+                <label asp-for="PublishedYear" class="fw-bold text-light">📅 Published Year</label>
+                <input asp-for="PublishedYear" type="number" class="form-control rounded-pill border-0 shadow-sm" required />
+                <span asp-validation-for="PublishedYear" class="text-danger"></span>
+            </div>
+
+            <!-- Category -->
+            <div class="form-group mb-3">
+                <label asp-for="CategoryId" class="fw-bold text-light">📂 Category</label>
+                <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-control rounded-pill border-0 shadow-sm" required>
+                    <option value="">-- Select Category --</option>
+                </select>
+                <span asp-validation-for="CategoryId" class="text-danger"></span>
+            </div>
+
+            <!-- Status -->
+<div class="form-group mb-3">
+    <label asp-for="BookStatus" class="fw-bold text-light">📖 Trạng thái</label>
+    <select asp-for="BookStatus" class="form-control rounded-pill border-0 shadow-sm" required>
+        <option value="Available" selected="@(Model.BookStatus == Book.Status.Available)">✔ Sẵn sàng</option>
+        <option value="Borrowed" selected="@(Model.BookStatus == Book.Status.Borrowed)">📚 Đang mượn</option>
+        <option value="Lost" selected="@(Model.BookStatus == Book.Status.Lost)">❌ Hết hàng</option>
+    </select>
+    <span asp-validation-for="BookStatus" class="text-danger"></span>
+</div>
+
+
+
+            <!-- Upload Image -->
+            <div class="form-group mb-3">
+                <label class="fw-bold text-light">🖼 Upload Image</label>
+                <input type="file" name="ImageFile" class="form-control rounded-pill shadow-sm" accept="image/*" />
+            </div>
+
+            <!-- Hiển thị ảnh hiện tại -->
+            @if (!string.IsNullOrEmpty(Model.ImageUrl))
+            {
+                <div class="form-group mb-3">
+                    <img src="@Model.ImageUrl" alt="Book Image" class="img-thumbnail mt-2" style="max-width: 200px;" />
+                </div>
+            }
+
+            <!-- Buttons -->
+            <div class="mt-4 text-center">
+                <button type="submit" class="btn btn-warning fw-bold btn-lg rounded-pill px-4 shadow-sm">✔ Update</button>
+                <a asp-action="Index" asp-controller="Book" class="btn btn-outline-light fw-bold btn-lg rounded-pill px-4 shadow-sm">✖ Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>

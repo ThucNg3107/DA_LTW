@@ -1,0 +1,126 @@
+﻿@model Dashboard
+
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<main>
+    <div class="cards">
+        <div class="card-single">
+            <div>
+                <h1>@Model.TongDocGia</h1>
+                <span>Độc giả</span>
+            </div>
+            <div>
+                <span><i class="bi bi-people"></i></span>
+            </div>
+        </div>
+        <div class="card-single">
+            <div>
+                <h1>@Model.TongSach</h1>
+                <span>Sách</span>
+            </div>
+            <div>
+                <span><i class="bi bi-book-half"></i></span>
+            </div>
+        </div>
+        <div class="card-single">
+            <div>
+                <h1>@Model.TongTaiKhoan</h1>
+                <span>Tài khoản</span>
+            </div>
+            <div>
+                <span><i class="bi bi-person-add"></i></span>
+            </div>
+        </div>
+        <div class="card-single">
+            <div>
+                <h1>@Model.TongMuonSach</h1>
+                <span>Lượt mượn sách</span>
+            </div>
+            <div>
+                <span><i class="bi bi-cart-plus"></i></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="recent-grid">
+        <div class="books">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="lv3">News book</h3>
+                    <button>
+                        <a asp-controller="QuanLySach" asp-action="Index">
+                            See all<span class="las la-arrow-right"></span>
+                        </a>
+                    </button>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table width="100%">
+                            <thead>
+                                <tr>
+                                    <td>Tên sách</td>
+                                    <td>Tác giả</td>
+                                    <td>Thể loại</td>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach(var data in @Model.LstDbBooks)
+                                {
+                                    <tr>
+                                        <td>@data.TenSach</td>
+                                        <td>@data.TenTacGia</td>
+                                        <td>@data.TenTheLoai</td>
+                                    </tr>
+                                }
+
+                                @* <tr>
+                                    <td>UI/UX Design</td>
+                                    <td>UI Team</td>
+                                    <td>
+                                        <span class="status purple"></span>
+                                        review
+                                    </td>
+                                </tr> *@
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="customers">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="lv3">New customers</h3>
+                    <button>
+                        <a asp-controller="QuanTriHeThong" asp-action="Index">
+                            See all<span class="las la-arrow-right"></span>
+                        </a>
+                    </button>
+                </div>
+
+                <div class="card-body">
+                    @foreach(var taiKhoan in Model.ListTaiKhoan)
+                    {
+                        <div class="customer">
+                            <div class="info">
+                                <img src="~/Images/logo/sach.png" width="40px" height="40px" alt="">
+                                <div>
+                                    <h4 class="lv4">@taiKhoan.TenDangNhap</h4>
+                                    <small>@taiKhoan.VaiTro</small>
+                                </div>
+                            </div>
+                            <div class="contact">
+                                <span><i class="bi bi-person-circle"></i></span>
+                                <span><i class="bi bi-chat-square-text"></i></span>
+                                <span><i class="bi bi-telephone"></i></span>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</main>

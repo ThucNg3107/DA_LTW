@@ -1,0 +1,92 @@
+﻿@model IEnumerable<QuanLyThuVien.Models.Book>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "Quản lý Sách";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container-xl mt-4">
+    <div class="d-flex justify-content-between align-items-center">
+        <h2 class="text-dark fw-bold">📖 Quản lý Sách</h2>
+        <a asp-action="Add" class="btn btn-success rounded-pill px-4 fw-bold shadow-sm">
+            ➕ Thêm Sách
+        </a>
+    </div>
+
+    <div class="card shadow-lg mt-4 bg-white text-dark">
+        <div class="card-body">
+            <div class="table-responsive w-100">
+                <table class="table table-hover">
+                    <thead class="table-primary">
+                        <tr>
+                            <th>ID</th>
+                            <th>Ảnh</th>
+                            <th>Tên Sách</th>
+                            <th>Tác Giả</th>
+                            <th>Nhà Xuất Bản</th>
+                            <th>Năm XB</th>
+                            <th>Thể Loại</th>
+                            <th>Trạng Thái</th>
+                            <th class="text-center">Chức Năng</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var book in Model)
+                        {
+                            <tr>
+                                <td>@book.BookId</td>
+                                <td>
+                                    <img src="@book.ImageUrl" alt="Book Image" class="rounded" style="width: 50px; height: 50px; object-fit: cover;">
+                                </td>
+                                <td>@book.Name</td>
+                                <td>@book.Author</td>
+                                <td>@book.Publisher</td>
+                                <td>@book.PublishedYear</td>
+                                <td>@book.Category?.Name</td>
+                                <td>
+                                    <span class="badge @(book.BookStatus == QuanLyThuVien.Models.Book.Status.Available ? "bg-success" : 
+                                                         (book.BookStatus == QuanLyThuVien.Models.Book.Status.Borrowed ? "bg-warning" : "bg-danger"))">
+                                        @if (book.BookStatus == QuanLyThuVien.Models.Book.Status.Available)
+                                        {
+                                            @:✔ Còn hàng
+                                        }
+                                        else if (book.BookStatus == QuanLyThuVien.Models.Book.Status.Borrowed)
+                                        {
+                                            @:📚 Đang mượn
+                                        }
+                                        else
+                                        {
+                                            @:❌ Hết hàng
+                                        }
+                                    </span>
+                                </td>
+                                <td class="text-center">
+                                    <div class="btn-group" role="group">
+                                        <a asp-action="Details" asp-route-id="@book.BookId" class="btn btn-info btn-sm rounded-pill" data-bs-toggle="tooltip" title="Xem Chi Tiết">
+                                            <i class="fas fa-eye"></i>
+                                        </a>
+                                        <a asp-action="Edit" asp-route-id="@book.BookId" class="btn btn-warning btn-sm rounded-pill" data-bs-toggle="tooltip" title="Chỉnh Sửa">
+                                            <i class="fas fa-edit"></i>
+                                        </a>
+                                        <a asp-action="Delete" asp-route-id="@book.BookId" class="btn btn-danger btn-sm rounded-pill" data-bs-toggle="tooltip" title="Xóa"
+                                           onclick="return confirm('Bạn có chắc chắn muốn xóa sách này?');">
+                                            <i class="fas fa-trash-alt"></i>
+                                        </a>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
+    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+        return new bootstrap.Tooltip(tooltipTriggerEl);
+    });
+</script>
