@@ -1,349 +1,349 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\",
+  "WorkspaceRootPath": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\controllers\\finecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\controllers\\finecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\controllers\\finecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\controllers\\loancotroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\controllers\\loancotroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\controllers\\loancotroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\loan\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\loan\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\loan\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\fine\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\fine\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\fine\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\controllers\\librarycardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\controllers\\librarycardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\controllers\\librarycardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\models\\huyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\models\\huyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\models\\huyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\fine\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\fine\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\fine\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\fine\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\fine\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\fine\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\loan\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\loan\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\loan\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\fine\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\fine\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\fine\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\fine\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\fine\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\fine\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\loan\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\loan\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\loan\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\loan\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\loan\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\loan\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\librarycard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\librarycard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\librarycard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\librarycard\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\librarycard\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\librarycard\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\librarycard\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\librarycard\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\librarycard\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\book\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\book\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\book\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\controllers\\sachchitietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\controllers\\sachchitietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\controllers\\sachchitietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\views\\sachchitiet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\views\\sachchitiet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\views\\sachchitiet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\views\\sachchitiet\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\views\\sachchitiet\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\views\\sachchitiet\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\wwwroot\\js\\detail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\wwwroot\\js\\detail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\wwwroot\\js\\detail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\wwwroot\\js\\book.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\wwwroot\\js\\book.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\wwwroot\\js\\book.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\loan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\loan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\loan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\views\\home\\chitietsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\views\\home\\chitietsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\views\\home\\chitietsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\repositories\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\repositories\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\repositories\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\repositories\\ilibrarycardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\repositories\\ilibrarycardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\repositories\\ilibrarycardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\repositories\\ifinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\repositories\\ifinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\repositories\\ifinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\repositories\\efloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\repositories\\efloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\repositories\\efloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\repositories\\eflibrarycardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\repositories\\eflibrarycardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\repositories\\eflibrarycardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\repositories\\effinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\repositories\\effinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\repositories\\effinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\repositories\\efbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\repositories\\efbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\repositories\\efbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\models\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\models\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\models\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\models\\huydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\models\\huydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\models\\huydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\models\\fine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\models\\fine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\models\\fine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\librarycard\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\librarycard\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\librarycard\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\views\\shared\\_adminlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\views\\shared\\_adminlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\views\\shared\\_adminlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\quanlythuvien.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\quanlythuvien.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\quanlythuvien.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\migrations\\20250328021525_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\migrations\\20250328021525_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\migrations\\20250328021525_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\migrations\\20250328015403_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\migrations\\20250328015403_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\migrations\\20250328015403_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\migrations\\20250328035743_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\migrations\\20250328035743_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\migrations\\20250328035743_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\migrations\\20250329161217_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\migrations\\20250329161217_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\migrations\\20250329161217_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\migrations\\20250329155432_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\migrations\\20250329155432_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\migrations\\20250329155432_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\migrations\\20250329182057_10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\migrations\\20250329182057_10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\migrations\\20250329182057_10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\migrations\\20250329180120_9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\migrations\\20250329180120_9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\migrations\\20250329180120_9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\migrations\\20250329170537_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\migrations\\20250329170537_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\migrations\\20250329170537_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\migrations\\20250329195406_11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\migrations\\20250329195406_11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\migrations\\20250329195406_11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\migrations\\20250329191018_extendidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\migrations\\20250329191018_extendidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\migrations\\20250329191018_extendidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\migrations\\20250329184316_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\migrations\\20250329184316_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\migrations\\20250329184316_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\downloads\\quanlythuvien\\quanlythuvien\\migrations\\20250403200148_12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\thucc\\onedrive\\documents\\github\\da_ltw\\quanlythuvien\\quanlythuvien\\migrations\\20250403200148_12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D211D0-35E5-46F8-A21C-859AF2704740}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\migrations\\20250403200148_12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -360,76 +360,71 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "LoanCotroller.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Controllers\\LoanCotroller.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Controllers\\LoanCotroller.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Controllers\\LoanCotroller.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Controllers\\LoanCotroller.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Controllers\\LoanCotroller.cs",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Controllers\\LoanCotroller.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAALQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T17:28:27.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T17:28:27.296Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Create.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Create.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Create.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Create.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Create.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:56:28.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:56:28.668Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Create.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Create.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Create.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Create.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Create.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:57:14.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:57:14.435Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Controllers\\AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Controllers\\AdminController.cs",
               "RelativeToolTip": "QuanLyThuVien\\Controllers\\AdminController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T14:53:35.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:53:35.763Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Controllers\\BookController.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Controllers\\BookController.cs",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Controllers\\BookController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAM4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T15:51:30.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T15:51:30.153Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FineController.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Controllers\\FineController.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Controllers\\FineController.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Controllers\\FineController.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Controllers\\FineController.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Controllers\\FineController.cs",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Controllers\\FineController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAA3wDYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAwwIQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T19:31:53.163Z",
               "EditorCaption": ""
@@ -438,308 +433,285 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "LibraryCardController.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Controllers\\LibraryCardController.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Controllers\\LibraryCardController.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Controllers\\LibraryCardController.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Controllers\\LibraryCardController.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Controllers\\LibraryCardController.cs",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Controllers\\LibraryCardController.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAmwGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T17:11:15.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T17:11:15.703Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAQwFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T16:24:43.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T16:24:43.38Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "HuyUser.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Models\\HuyUser.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Models\\HuyUser.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Models\\HuyUser.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Models\\HuyUser.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Models\\HuyUser.cs",
               "RelativeToolTip": "QuanLyThuVien\\Models\\HuyUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T19:04:38.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T19:04:38.725Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAmwGsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T19:10:38.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T19:10:38.346Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "SD.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Models\\SD.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Models\\SD.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Models\\SD.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Models\\SD.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Models\\SD.cs",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Models\\SD.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T19:17:07.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T19:17:07.784Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Index.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Index.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Index.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Index.cshtml",
               "ViewState": "AgIAADMAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:56:51.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:56:51.146Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Delete.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Delete.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Delete.cshtml",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAC8AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:56:32.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:56:32.612Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Details.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Details.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Details.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Details.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Details.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAADgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:57:21.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:57:21.556Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Details.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Details.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Details.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Details.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Details.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAIwEoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:56:45.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:56:45.924Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Edit.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Edit.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Edit.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAIwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:56:48.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:56:48.641Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Delete.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Delete.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:57:17.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:57:17.718Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Edit.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Edit.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Edit.cshtml",
               "ViewState": "AgIAAB0AAAAAAAAAAAAIwDgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:57:24.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:57:24.987Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "index.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\index.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\index.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\index.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\index.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:57:02.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:57:02.354Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\Update.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\Update.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\Update.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\Update.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\Update.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:57:10.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:57:10.067Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\Register.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\Register.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\Register.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\Register.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\Register.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:57:06.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:57:06.427Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "add.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Book\\add.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Book\\add.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\Book\\add.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Book\\add.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Book\\add.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Book\\add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:55:34.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:55:34.14Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Add.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Add.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Add.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:56:11.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:56:11.996Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "index.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Book\\index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Book\\index.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\Book\\index.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Book\\index.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Book\\index.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Book\\index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:56:03.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:56:03.91Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAANUAAAAAAAAAAAAAAOQAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-01T15:53:41.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T15:53:41.861Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "SachChiTietController.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Controllers\\SachChiTietController.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Controllers\\SachChiTietController.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Controllers\\SachChiTietController.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Controllers\\SachChiTietController.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Controllers\\SachChiTietController.cs",
               "RelativeToolTip": "QuanLyThuVien\\Controllers\\SachChiTietController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwEAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T14:57:29.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T14:57:29.781Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Controllers\\HomeController.cs",
               "RelativeToolTip": "QuanLyThuVien\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T15:53:45.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T15:53:45.593Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Book\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Book\\Details.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\Book\\Details.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Book\\Details.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Book\\Details.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Book\\Details.cshtml",
               "ViewState": "AgIAAAQAAAAAAAAAAAAuwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:55:55.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:55:55.283Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Book\\delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Book\\delete.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\Book\\delete.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Book\\delete.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Book\\delete.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Book\\delete.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:55:51.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:55:51.14Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\SachChiTiet\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\SachChiTiet\\Index.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Views\\SachChiTiet\\Index.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\SachChiTiet\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\SachChiTiet\\Index.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Views\\SachChiTiet\\Index.cshtml",
               "ViewState": "AgIAAEcAAAAAAAAAAAAIwHIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -749,9 +721,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAIwCkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -761,9 +733,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ViewState": "AgIAADgAAAAAAAAAAAAIwFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -773,9 +745,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAIAAAAAAAAAAAAIwBIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -785,9 +757,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "Logout.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -797,9 +769,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\Shared\\_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -809,9 +781,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\SachChiTiet\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\SachChiTiet\\Details.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Views\\SachChiTiet\\Details.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\SachChiTiet\\Details.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\SachChiTiet\\Details.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Views\\SachChiTiet\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -821,9 +793,9 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "QuanLyThuVien\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\css\\site.css",
               "RelativeToolTip": "QuanLyThuVien\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAJsCAAAAAAAAAIAwwK0CAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -833,9 +805,9 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -845,9 +817,9 @@
               "$type": "Document",
               "DocumentIndex": 41,
               "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\Shared\\_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Views\\Shared\\_AdminLayout.cshtml",
               "ViewState": "AgIAAGAAAAAAAAAAAAAAADwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -857,9 +829,9 @@
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\Admin\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Views\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\Admin\\Index.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Views\\Admin\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -869,9 +841,9 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "book.js",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\book.js",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\book.js",
               "RelativeDocumentMoniker": "QuanLyThuVien\\wwwroot\\js\\book.js",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\book.js",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\book.js",
               "RelativeToolTip": "QuanLyThuVien\\wwwroot\\js\\book.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -881,9 +853,9 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "detail.js",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\detail.js",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\detail.js",
               "RelativeDocumentMoniker": "QuanLyThuVien\\wwwroot\\js\\detail.js",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\detail.js",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\detail.js",
               "RelativeToolTip": "QuanLyThuVien\\wwwroot\\js\\detail.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -893,9 +865,9 @@
               "$type": "Document",
               "DocumentIndex": 42,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Index.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Index.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Index.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Index.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -905,9 +877,9 @@
               "$type": "Document",
               "DocumentIndex": 43,
               "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Update.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Update.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -917,9 +889,9 @@
               "$type": "Document",
               "DocumentIndex": 44,
               "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\Shared\\_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeToolTip": "QuanLyThuVien\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAAC0AAAAAAAAAAIAwwEIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -929,9 +901,9 @@
               "$type": "Document",
               "DocumentIndex": 45,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\appsettings.json",
               "RelativeDocumentMoniker": "QuanLyThuVien\\appsettings.json",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\appsettings.json",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\appsettings.json",
               "RelativeToolTip": "QuanLyThuVien\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -941,9 +913,9 @@
               "$type": "Document",
               "DocumentIndex": 47,
               "Title": "chitietsach.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\Home\\chitietsach.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\Home\\chitietsach.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Views\\Home\\chitietsach.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\Home\\chitietsach.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\Home\\chitietsach.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Views\\Home\\chitietsach.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -953,9 +925,9 @@
               "$type": "Document",
               "DocumentIndex": 48,
               "Title": "ILoanRepository.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\ILoanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\ILoanRepository.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Repositories\\ILoanRepository.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\ILoanRepository.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\ILoanRepository.cs",
               "RelativeToolTip": "QuanLyThuVien\\Repositories\\ILoanRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -965,9 +937,9 @@
               "$type": "Document",
               "DocumentIndex": 46,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -977,9 +949,9 @@
               "$type": "Document",
               "DocumentIndex": 49,
               "Title": "ILibraryCardRepository.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\ILibraryCardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\ILibraryCardRepository.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Repositories\\ILibraryCardRepository.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\ILibraryCardRepository.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\ILibraryCardRepository.cs",
               "RelativeToolTip": "QuanLyThuVien\\Repositories\\ILibraryCardRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -989,9 +961,9 @@
               "$type": "Document",
               "DocumentIndex": 50,
               "Title": "IFineRepository.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\IFineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\IFineRepository.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Repositories\\IFineRepository.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\IFineRepository.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\IFineRepository.cs",
               "RelativeToolTip": "QuanLyThuVien\\Repositories\\IFineRepository.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1001,9 +973,9 @@
               "$type": "Document",
               "DocumentIndex": 51,
               "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Repositories\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\ICategoryRepository.cs",
               "RelativeToolTip": "QuanLyThuVien\\Repositories\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1013,9 +985,9 @@
               "$type": "Document",
               "DocumentIndex": 54,
               "Title": "EFLibraryCardRepository.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\EFLibraryCardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\EFLibraryCardRepository.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Repositories\\EFLibraryCardRepository.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\EFLibraryCardRepository.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\EFLibraryCardRepository.cs",
               "RelativeToolTip": "QuanLyThuVien\\Repositories\\EFLibraryCardRepository.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAQwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1025,9 +997,9 @@
               "$type": "Document",
               "DocumentIndex": 55,
               "Title": "EFFineRepository.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\EFFineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\EFFineRepository.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Repositories\\EFFineRepository.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\EFFineRepository.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\EFFineRepository.cs",
               "RelativeToolTip": "QuanLyThuVien\\Repositories\\EFFineRepository.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAAQwGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1037,9 +1009,9 @@
               "$type": "Document",
               "DocumentIndex": 56,
               "Title": "EFCategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\EFCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\EFCategoryRepository.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Repositories\\EFCategoryRepository.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\EFCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\EFCategoryRepository.cs",
               "RelativeToolTip": "QuanLyThuVien\\Repositories\\EFCategoryRepository.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAQwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1049,9 +1021,9 @@
               "$type": "Document",
               "DocumentIndex": 57,
               "Title": "EFBookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\EFBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\EFBookRepository.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Repositories\\EFBookRepository.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\EFBookRepository.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\EFBookRepository.cs",
               "RelativeToolTip": "QuanLyThuVien\\Repositories\\EFBookRepository.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAQwEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1061,9 +1033,9 @@
               "$type": "Document",
               "DocumentIndex": 58,
               "Title": "Loan.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Models\\Loan.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Models\\Loan.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Models\\Loan.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Models\\Loan.cs",
               "RelativeToolTip": "QuanLyThuVien\\Models\\Loan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1073,9 +1045,9 @@
               "$type": "Document",
               "DocumentIndex": 59,
               "Title": "LibraryCard.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Models\\LibraryCard.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Models\\LibraryCard.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Models\\LibraryCard.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Models\\LibraryCard.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Models\\LibraryCard.cs",
               "RelativeToolTip": "QuanLyThuVien\\Models\\LibraryCard.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1085,9 +1057,9 @@
               "$type": "Document",
               "DocumentIndex": 53,
               "Title": "EFLoanRepository.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\EFLoanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\EFLoanRepository.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Repositories\\EFLoanRepository.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\EFLoanRepository.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\EFLoanRepository.cs",
               "RelativeToolTip": "QuanLyThuVien\\Repositories\\EFLoanRepository.cs",
               "ViewState": "AgIAAFUAAAAAAAAAAAAxwHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1097,9 +1069,9 @@
               "$type": "Document",
               "DocumentIndex": 52,
               "Title": "IBookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\IBookRepository.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Repositories\\IBookRepository.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Repositories\\IBookRepository.cs",
               "RelativeToolTip": "QuanLyThuVien\\Repositories\\IBookRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1109,9 +1081,9 @@
               "$type": "Document",
               "DocumentIndex": 60,
               "Title": "HuyDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Models\\HuyDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Models\\HuyDBContext.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Models\\HuyDBContext.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Models\\HuyDBContext.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Models\\HuyDBContext.cs",
               "RelativeToolTip": "QuanLyThuVien\\Models\\HuyDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1121,9 +1093,9 @@
               "$type": "Document",
               "DocumentIndex": 61,
               "Title": "Fine.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Models\\Fine.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Models\\Fine.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Models\\Fine.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Models\\Fine.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Models\\Fine.cs",
               "RelativeToolTip": "QuanLyThuVien\\Models\\Fine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1133,9 +1105,9 @@
               "$type": "Document",
               "DocumentIndex": 62,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Models\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Models\\Category.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Models\\Category.cs",
               "RelativeToolTip": "QuanLyThuVien\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1145,9 +1117,9 @@
               "$type": "Document",
               "DocumentIndex": 63,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Models\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Models\\Book.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Models\\Book.cs",
               "RelativeToolTip": "QuanLyThuVien\\Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1157,9 +1129,9 @@
               "$type": "Document",
               "DocumentIndex": 64,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Book\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Book\\Edit.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\Book\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Book\\Edit.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Book\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -1169,9 +1141,9 @@
               "$type": "Document",
               "DocumentIndex": 65,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "QuanLyThuVien\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "QuanLyThuVien\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -1181,9 +1153,9 @@
               "$type": "Document",
               "DocumentIndex": 66,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Program.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Program.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Program.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Program.cs",
               "RelativeToolTip": "QuanLyThuVien\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAADsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1193,9 +1165,9 @@
               "$type": "Document",
               "DocumentIndex": 85,
               "Title": "20250403200148_12.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250403200148_12.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250403200148_12.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Migrations\\20250403200148_12.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250403200148_12.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250403200148_12.cs",
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250403200148_12.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1205,9 +1177,9 @@
               "$type": "Document",
               "DocumentIndex": 67,
               "Title": "admin.css",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\css\\admin.css",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\css\\admin.css",
               "RelativeDocumentMoniker": "QuanLyThuVien\\wwwroot\\css\\admin.css",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\css\\admin.css",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\css\\admin.css",
               "RelativeToolTip": "QuanLyThuVien\\wwwroot\\css\\admin.css",
               "ViewState": "AgIAAJkAAAAAAAAAAAAAAKwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -1217,9 +1189,9 @@
               "$type": "Document",
               "DocumentIndex": 68,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -1229,9 +1201,9 @@
               "$type": "Document",
               "DocumentIndex": 69,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -1241,9 +1213,9 @@
               "$type": "Document",
               "DocumentIndex": 71,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -1253,9 +1225,9 @@
               "$type": "Document",
               "DocumentIndex": 70,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\Delete.cshtml",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\Delete.cshtml",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -1265,9 +1237,9 @@
               "$type": "Document",
               "DocumentIndex": 72,
               "Title": "_AdminLayout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\Shared\\_AdminLayout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\Shared\\_AdminLayout.cshtml.css",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Views\\Shared\\_AdminLayout.cshtml.css",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Views\\Shared\\_AdminLayout.cshtml.css",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Views\\Shared\\_AdminLayout.cshtml.css",
               "RelativeToolTip": "QuanLyThuVien\\Views\\Shared\\_AdminLayout.cshtml.css",
               "ViewState": "AgIAAOEAAAAAAAAAAAAuwPsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -1277,9 +1249,9 @@
               "$type": "Document",
               "DocumentIndex": 82,
               "Title": "20250329195406_11.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329195406_11.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329195406_11.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Migrations\\20250329195406_11.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329195406_11.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329195406_11.cs",
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250329195406_11.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1289,9 +1261,9 @@
               "$type": "Document",
               "DocumentIndex": 83,
               "Title": "20250329191018_ExtendIdentityUser.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329191018_ExtendIdentityUser.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329191018_ExtendIdentityUser.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Migrations\\20250329191018_ExtendIdentityUser.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329191018_ExtendIdentityUser.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329191018_ExtendIdentityUser.cs",
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250329191018_ExtendIdentityUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1301,9 +1273,9 @@
               "$type": "Document",
               "DocumentIndex": 84,
               "Title": "20250329184316_AddIdentity.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329184316_AddIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329184316_AddIdentity.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Migrations\\20250329184316_AddIdentity.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329184316_AddIdentity.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329184316_AddIdentity.cs",
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250329184316_AddIdentity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1313,9 +1285,9 @@
               "$type": "Document",
               "DocumentIndex": 73,
               "Title": "QuanLyThuVien.csproj",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\QuanLyThuVien.csproj",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\QuanLyThuVien.csproj",
               "RelativeDocumentMoniker": "QuanLyThuVien\\QuanLyThuVien.csproj",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\QuanLyThuVien.csproj",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\QuanLyThuVien.csproj",
               "RelativeToolTip": "QuanLyThuVien\\QuanLyThuVien.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -1325,9 +1297,9 @@
               "$type": "Document",
               "DocumentIndex": 80,
               "Title": "20250329180120_9.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329180120_9.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329180120_9.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Migrations\\20250329180120_9.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329180120_9.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329180120_9.cs",
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250329180120_9.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1337,9 +1309,9 @@
               "$type": "Document",
               "DocumentIndex": 79,
               "Title": "20250329182057_10.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329182057_10.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329182057_10.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Migrations\\20250329182057_10.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329182057_10.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329182057_10.cs",
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250329182057_10.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1349,9 +1321,9 @@
               "$type": "Document",
               "DocumentIndex": 81,
               "Title": "20250329170537_8.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329170537_8.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329170537_8.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Migrations\\20250329170537_8.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329170537_8.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329170537_8.cs",
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250329170537_8.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1361,9 +1333,9 @@
               "$type": "Document",
               "DocumentIndex": 77,
               "Title": "20250329161217_7.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329161217_7.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329161217_7.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Migrations\\20250329161217_7.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329161217_7.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329161217_7.cs",
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250329161217_7.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1373,9 +1345,9 @@
               "$type": "Document",
               "DocumentIndex": 78,
               "Title": "20250329155432_6.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329155432_6.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329155432_6.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Migrations\\20250329155432_6.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329155432_6.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250329155432_6.cs",
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250329155432_6.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1385,9 +1357,9 @@
               "$type": "Document",
               "DocumentIndex": 76,
               "Title": "20250328035743_5.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250328035743_5.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250328035743_5.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Migrations\\20250328035743_5.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250328035743_5.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250328035743_5.cs",
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250328035743_5.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1397,9 +1369,9 @@
               "$type": "Document",
               "DocumentIndex": 74,
               "Title": "20250328021525_4.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250328021525_4.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250328021525_4.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Migrations\\20250328021525_4.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250328021525_4.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250328021525_4.cs",
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250328021525_4.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1409,9 +1381,9 @@
               "$type": "Document",
               "DocumentIndex": 75,
               "Title": "20250328015403_3.cs",
-              "DocumentMoniker": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250328015403_3.cs",
+              "DocumentMoniker": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250328015403_3.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien\\Migrations\\20250328015403_3.cs",
-              "ToolTip": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250328015403_3.cs",
+              "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Migrations\\20250328015403_3.cs",
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250328015403_3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

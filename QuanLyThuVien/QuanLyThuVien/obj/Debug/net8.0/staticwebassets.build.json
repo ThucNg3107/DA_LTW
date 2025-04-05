@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OWGhGTMkrKQlJOgfljvPKNP8o2hGtB880TT3wfMMz3U=",
+  "Hash": "1ZRXOD7spQdzs6eu/1gNC/kSaRSyNlDGv6wxHuEX7hM=",
   "Source": "QuanLyThuVien",
   "BasePath": "_content/QuanLyThuVien",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "QuanLyThuVien\\wwwroot",
       "Source": "QuanLyThuVien",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "Pattern": "**"
     }
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "C:\\Users\\thucc\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.11\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\obj\\Debug\\net8.0\\scopedcss\\bundle\\QuanLyThuVien.styles.css",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\obj\\Debug\\net8.0\\scopedcss\\bundle\\QuanLyThuVien.styles.css",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "QuanLyThuVien#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -1295,13 +1295,13 @@
       "Integrity": "jWKyBlJ+dytISLqKj98TD0mfqeBLJrh9O93SA3/jydU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\obj\\Debug\\net8.0\\scopedcss\\bundle\\QuanLyThuVien.styles.css"
+      "OriginalItemSpec": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\obj\\Debug\\net8.0\\scopedcss\\bundle\\QuanLyThuVien.styles.css"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QuanLyThuVien.bundle.scp.css",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QuanLyThuVien.bundle.scp.css",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "QuanLyThuVien#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -1316,13 +1316,13 @@
       "Integrity": "jWKyBlJ+dytISLqKj98TD0mfqeBLJrh9O93SA3/jydU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QuanLyThuVien.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QuanLyThuVien.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\css\\admin.css",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\css\\admin.css",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "css/admin#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\admin.css"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\css\\site.css",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\favicon.ico",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\0380b0f3-6049-458f-867e-7a49334b6569_620b401d-b0ea-4ec5-8365-109116e35583.jpg",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\0380b0f3-6049-458f-867e-7a49334b6569_620b401d-b0ea-4ec5-8365-109116e35583.jpg",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/0380b0f3-6049-458f-867e-7a49334b6569_620b401d-b0ea-4ec5-8365-109116e35583#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\images\\0380b0f3-6049-458f-867e-7a49334b6569_620b401d-b0ea-4ec5-8365-109116e35583.jpg"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\102b698e-6722-490c-85dc-3b99c14544cb_tải xuống (1).jpg",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\102b698e-6722-490c-85dc-3b99c14544cb_tải xuống (1).jpg",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/102b698e-6722-490c-85dc-3b99c14544cb_tải xuống (1)#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\images\\102b698e-6722-490c-85dc-3b99c14544cb_tải xuống (1).jpg"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\140638e9-adfe-4bb8-b157-4e3e1d305b4e_images.jpg",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\140638e9-adfe-4bb8-b157-4e3e1d305b4e_images.jpg",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/140638e9-adfe-4bb8-b157-4e3e1d305b4e_images#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\images\\140638e9-adfe-4bb8-b157-4e3e1d305b4e_images.jpg"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\178ef9d8-ef52-4c18-859a-15254812c2a4_images.png",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\178ef9d8-ef52-4c18-859a-15254812c2a4_images.png",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/178ef9d8-ef52-4c18-859a-15254812c2a4_images#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\images\\178ef9d8-ef52-4c18-859a-15254812c2a4_images.png"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\252916e4-1bc8-45ba-b90a-78770ba4e664_tải xuống (4).jpg",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\252916e4-1bc8-45ba-b90a-78770ba4e664_tải xuống (4).jpg",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/252916e4-1bc8-45ba-b90a-78770ba4e664_tải xuống (4)#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\images\\252916e4-1bc8-45ba-b90a-78770ba4e664_tải xuống (4).jpg"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\2870be8c-482d-4788-abf4-2bf61cd4013e_1003w-5jYTmzVneQk.webp",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\2870be8c-482d-4788-abf4-2bf61cd4013e_1003w-5jYTmzVneQk.webp",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/2870be8c-482d-4788-abf4-2bf61cd4013e_1003w-5jYTmzVneQk#[.{fingerprint}]?.webp",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\images\\2870be8c-482d-4788-abf4-2bf61cd4013e_1003w-5jYTmzVneQk.webp"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\2d4754c1-5cac-4314-81f6-3fd18dd243d8_39cd9a1fc0bcfb68efa34466bf3edbd5.jpg",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\2d4754c1-5cac-4314-81f6-3fd18dd243d8_39cd9a1fc0bcfb68efa34466bf3edbd5.jpg",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/2d4754c1-5cac-4314-81f6-3fd18dd243d8_39cd9a1fc0bcfb68efa34466bf3edbd5#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\images\\2d4754c1-5cac-4314-81f6-3fd18dd243d8_39cd9a1fc0bcfb68efa34466bf3edbd5.jpg"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\3b4d2632-c4d7-45d4-b257-7e9240971174_tải xuống (2).jpg",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\3b4d2632-c4d7-45d4-b257-7e9240971174_tải xuống (2).jpg",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/3b4d2632-c4d7-45d4-b257-7e9240971174_tải xuống (2)#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\images\\3b4d2632-c4d7-45d4-b257-7e9240971174_tải xuống (2).jpg"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\4252c416-6438-4241-99f2-fef6a73dd9f2_Beyond the cover Ngôn tình  (12).jpg",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\4252c416-6438-4241-99f2-fef6a73dd9f2_Beyond the cover Ngôn tình  (12).jpg",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/4252c416-6438-4241-99f2-fef6a73dd9f2_Beyond the cover Ngôn tình  (12)#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\images\\4252c416-6438-4241-99f2-fef6a73dd9f2_Beyond the cover Ngôn tình  (12).jpg"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\44e72580-5ba7-4e52-bff0-9424d5390f0b_anh-nen-meo-de-thuong_093846627.jpg",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\44e72580-5ba7-4e52-bff0-9424d5390f0b_anh-nen-meo-de-thuong_093846627.jpg",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/44e72580-5ba7-4e52-bff0-9424d5390f0b_anh-nen-meo-de-thuong_093846627#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\images\\44e72580-5ba7-4e52-bff0-9424d5390f0b_anh-nen-meo-de-thuong_093846627.jpg"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\47f0e7f9-820d-4d0b-86a7-c4e06843270d_6611-triet-hoc-1.jpg",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\47f0e7f9-820d-4d0b-86a7-c4e06843270d_6611-triet-hoc-1.jpg",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/47f0e7f9-820d-4d0b-86a7-c4e06843270d_6611-triet-hoc-1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\images\\47f0e7f9-820d-4d0b-86a7-c4e06843270d_6611-triet-hoc-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\57e1ee87-9054-4bb2-8feb-1b2a4157d4a2_tải xuống (2).jpg",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\57e1ee87-9054-4bb2-8feb-1b2a4157d4a2_tải xuống (2).jpg",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/57e1ee87-9054-4bb2-8feb-1b2a4157d4a2_tải xuống (2)#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\images\\57e1ee87-9054-4bb2-8feb-1b2a4157d4a2_tải xuống (2).jpg"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\6bf29308-0696-4dcd-b4e6-08c2db3639fd_Screenshot 2025-03-31 100739.png",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\6bf29308-0696-4dcd-b4e6-08c2db3639fd_Screenshot 2025-03-31 100739.png",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/6bf29308-0696-4dcd-b4e6-08c2db3639fd_Screenshot 2025-03-31 100739#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1655,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\images\\6bf29308-0696-4dcd-b4e6-08c2db3639fd_Screenshot 2025-03-31 100739.png"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\6c295237-f124-480e-ab11-1643d0b64c65_c51aa1fc03000b4aa857efe6aa133b44.jpg",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\6c295237-f124-480e-ab11-1643d0b64c65_c51aa1fc03000b4aa857efe6aa133b44.jpg",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/6c295237-f124-480e-ab11-1643d0b64c65_c51aa1fc03000b4aa857efe6aa133b44#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1676,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\images\\6c295237-f124-480e-ab11-1643d0b64c65_c51aa1fc03000b4aa857efe6aa133b44.jpg"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\77aa16eb-702d-42d3-b76a-f97fd0a16b0d_tải xuống (4).jpg",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\77aa16eb-702d-42d3-b76a-f97fd0a16b0d_tải xuống (4).jpg",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/77aa16eb-702d-42d3-b76a-f97fd0a16b0d_tải xuống (4)#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1697,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\77aa16eb-702d-42d3-b76a-f97fd0a16b0d_tải xuống (4).jpg"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\865886f2-0876-43fb-b126-91df2c286699_10392-kinh-te-hoc-hai-huoc-1.jpg",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\865886f2-0876-43fb-b126-91df2c286699_10392-kinh-te-hoc-hai-huoc-1.jpg",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/865886f2-0876-43fb-b126-91df2c286699_10392-kinh-te-hoc-hai-huoc-1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1718,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot\\images\\865886f2-0876-43fb-b126-91df2c286699_10392-kinh-te-hoc-hai-huoc-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\91ed6a98-4a42-4278-a262-3d95577884bb_khoa-hoc-5png-1718762980654519600254.jpg",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\91ed6a98-4a42-4278-a262-3d95577884bb_khoa-hoc-5png-1718762980654519600254.jpg",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/91ed6a98-4a42-4278-a262-3d95577884bb_khoa-hoc-5png-1718762980654519600254#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1739,10 +1739,10 @@
       "OriginalItemSpec": "wwwroot\\images\\91ed6a98-4a42-4278-a262-3d95577884bb_khoa-hoc-5png-1718762980654519600254.jpg"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\946131f3-b1e1-4107-b713-9af3eb1a16f1_anh-cute-001-1.jpg",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\946131f3-b1e1-4107-b713-9af3eb1a16f1_anh-cute-001-1.jpg",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/946131f3-b1e1-4107-b713-9af3eb1a16f1_anh-cute-001-1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1760,10 +1760,10 @@
       "OriginalItemSpec": "wwwroot\\images\\946131f3-b1e1-4107-b713-9af3eb1a16f1_anh-cute-001-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\9fb55f1e-7afd-444d-9813-a2a5c70664b7_images.jpg",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\9fb55f1e-7afd-444d-9813-a2a5c70664b7_images.jpg",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/9fb55f1e-7afd-444d-9813-a2a5c70664b7_images#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1781,10 +1781,10 @@
       "OriginalItemSpec": "wwwroot\\images\\9fb55f1e-7afd-444d-9813-a2a5c70664b7_images.jpg"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\9fb579c0-7d37-4c4d-9181-64db37af740e_tải xuống.jpg",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\9fb579c0-7d37-4c4d-9181-64db37af740e_tải xuống.jpg",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/9fb579c0-7d37-4c4d-9181-64db37af740e_tải xuống#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\images\\9fb579c0-7d37-4c4d-9181-64db37af740e_tải xuống.jpg"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\aa89f9ae-faa5-4047-bf4c-2eb9dba11f59_4493-kinh-te-hoc-vi-mo-1.jpg",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\aa89f9ae-faa5-4047-bf4c-2eb9dba11f59_4493-kinh-te-hoc-vi-mo-1.jpg",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/aa89f9ae-faa5-4047-bf4c-2eb9dba11f59_4493-kinh-te-hoc-vi-mo-1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1823,10 +1823,10 @@
       "OriginalItemSpec": "wwwroot\\images\\aa89f9ae-faa5-4047-bf4c-2eb9dba11f59_4493-kinh-te-hoc-vi-mo-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\b60c4c93-e87e-4019-860a-c3c58dd5274d_tải xuống (1).jpg",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\b60c4c93-e87e-4019-860a-c3c58dd5274d_tải xuống (1).jpg",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/b60c4c93-e87e-4019-860a-c3c58dd5274d_tải xuống (1)#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1844,10 +1844,10 @@
       "OriginalItemSpec": "wwwroot\\images\\b60c4c93-e87e-4019-860a-c3c58dd5274d_tải xuống (1).jpg"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\bfd675c3-ffa2-4ad4-bbca-dad66c469e59_images.png",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\bfd675c3-ffa2-4ad4-bbca-dad66c469e59_images.png",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/bfd675c3-ffa2-4ad4-bbca-dad66c469e59_images#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1865,10 +1865,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bfd675c3-ffa2-4ad4-bbca-dad66c469e59_images.png"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\c6b7c22d-e128-4f75-ab84-0e2d0e0c1336_anh-cute-001-1.jpg",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\c6b7c22d-e128-4f75-ab84-0e2d0e0c1336_anh-cute-001-1.jpg",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/c6b7c22d-e128-4f75-ab84-0e2d0e0c1336_anh-cute-001-1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1886,10 +1886,10 @@
       "OriginalItemSpec": "wwwroot\\images\\c6b7c22d-e128-4f75-ab84-0e2d0e0c1336_anh-cute-001-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\e991fa8c-7236-441a-bfa3-f1b41d99573e_2022_06_07_14_08_56_1-390x510-2.jpg",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\e991fa8c-7236-441a-bfa3-f1b41d99573e_2022_06_07_14_08_56_1-390x510-2.jpg",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/e991fa8c-7236-441a-bfa3-f1b41d99573e_2022_06_07_14_08_56_1-390x510-2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1907,10 +1907,10 @@
       "OriginalItemSpec": "wwwroot\\images\\e991fa8c-7236-441a-bfa3-f1b41d99573e_2022_06_07_14_08_56_1-390x510-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\f237dc21-1855-4421-b94e-1a7c5443f5b8_tải xuống (3).jpg",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\f237dc21-1855-4421-b94e-1a7c5443f5b8_tải xuống (3).jpg",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/f237dc21-1855-4421-b94e-1a7c5443f5b8_tải xuống (3)#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1928,10 +1928,10 @@
       "OriginalItemSpec": "wwwroot\\images\\f237dc21-1855-4421-b94e-1a7c5443f5b8_tải xuống (3).jpg"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\fc7d042a-e9e1-4b7c-89ce-af689e5438b5_cong-nghe.webp",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\fc7d042a-e9e1-4b7c-89ce-af689e5438b5_cong-nghe.webp",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "images/fc7d042a-e9e1-4b7c-89ce-af689e5438b5_cong-nghe#[.{fingerprint}]?.webp",
       "AssetKind": "All",
@@ -1949,10 +1949,10 @@
       "OriginalItemSpec": "wwwroot\\images\\fc7d042a-e9e1-4b7c-89ce-af689e5438b5_cong-nghe.webp"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\book.js",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\book.js",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "js/book#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1970,10 +1970,10 @@
       "OriginalItemSpec": "wwwroot\\js\\book.js"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\detail.js",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\detail.js",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "js/detail#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1991,10 +1991,10 @@
       "OriginalItemSpec": "wwwroot\\js\\detail.js"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\site.js",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2033,10 +2033,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2054,10 +2054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2075,10 +2075,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2096,10 +2096,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2117,10 +2117,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2138,10 +2138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2180,10 +2180,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2201,10 +2201,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2222,10 +2222,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2243,10 +2243,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2264,10 +2264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2285,10 +2285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2306,10 +2306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2327,10 +2327,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2348,10 +2348,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2369,10 +2369,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2390,10 +2390,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2432,10 +2432,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2453,10 +2453,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2474,10 +2474,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2495,10 +2495,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2537,10 +2537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2558,10 +2558,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2579,10 +2579,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2600,10 +2600,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2621,10 +2621,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2642,10 +2642,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2663,10 +2663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2684,10 +2684,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2705,10 +2705,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2726,10 +2726,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2747,10 +2747,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2768,10 +2768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2789,10 +2789,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2831,10 +2831,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2852,10 +2852,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2894,10 +2894,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2915,10 +2915,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2936,10 +2936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -2957,10 +2957,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2978,10 +2978,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2999,10 +2999,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -3020,10 +3020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -3041,10 +3041,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3062,10 +3062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3083,10 +3083,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3104,10 +3104,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3125,10 +3125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -3146,10 +3146,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3167,10 +3167,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3188,10 +3188,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "QuanLyThuVien",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\",
       "BasePath": "_content/QuanLyThuVien",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -3212,7 +3212,7 @@
   "Endpoints": [
     {
       "Route": "css/admin.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\css\\admin.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\css\\admin.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3249,7 +3249,7 @@
     },
     {
       "Route": "css/admin.omemrtobpo.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\css\\admin.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\css\\admin.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3294,7 +3294,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3331,7 +3331,7 @@
     },
     {
       "Route": "css/site.qnlvrk4xvb.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3376,7 +3376,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3421,7 +3421,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5678,7 +5678,7 @@
     },
     {
       "Route": "images/0380b0f3-6049-458f-867e-7a49334b6569_620b401d-b0ea-4ec5-8365-109116e35583.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\0380b0f3-6049-458f-867e-7a49334b6569_620b401d-b0ea-4ec5-8365-109116e35583.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\0380b0f3-6049-458f-867e-7a49334b6569_620b401d-b0ea-4ec5-8365-109116e35583.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5715,7 +5715,7 @@
     },
     {
       "Route": "images/0380b0f3-6049-458f-867e-7a49334b6569_620b401d-b0ea-4ec5-8365-109116e35583.rd0usrg236.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\0380b0f3-6049-458f-867e-7a49334b6569_620b401d-b0ea-4ec5-8365-109116e35583.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\0380b0f3-6049-458f-867e-7a49334b6569_620b401d-b0ea-4ec5-8365-109116e35583.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5760,7 +5760,7 @@
     },
     {
       "Route": "images/102b698e-6722-490c-85dc-3b99c14544cb_tải xuống (1).11ltymsi9s.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\102b698e-6722-490c-85dc-3b99c14544cb_tải xuống (1).jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\102b698e-6722-490c-85dc-3b99c14544cb_tải xuống (1).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5805,7 +5805,7 @@
     },
     {
       "Route": "images/102b698e-6722-490c-85dc-3b99c14544cb_tải xuống (1).jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\102b698e-6722-490c-85dc-3b99c14544cb_tải xuống (1).jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\102b698e-6722-490c-85dc-3b99c14544cb_tải xuống (1).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5842,7 +5842,7 @@
     },
     {
       "Route": "images/140638e9-adfe-4bb8-b157-4e3e1d305b4e_images.h8btxdce4m.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\140638e9-adfe-4bb8-b157-4e3e1d305b4e_images.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\140638e9-adfe-4bb8-b157-4e3e1d305b4e_images.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5887,7 +5887,7 @@
     },
     {
       "Route": "images/140638e9-adfe-4bb8-b157-4e3e1d305b4e_images.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\140638e9-adfe-4bb8-b157-4e3e1d305b4e_images.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\140638e9-adfe-4bb8-b157-4e3e1d305b4e_images.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5924,7 +5924,7 @@
     },
     {
       "Route": "images/178ef9d8-ef52-4c18-859a-15254812c2a4_images.dwn0z8ox2y.png",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\178ef9d8-ef52-4c18-859a-15254812c2a4_images.png",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\178ef9d8-ef52-4c18-859a-15254812c2a4_images.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5969,7 +5969,7 @@
     },
     {
       "Route": "images/178ef9d8-ef52-4c18-859a-15254812c2a4_images.png",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\178ef9d8-ef52-4c18-859a-15254812c2a4_images.png",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\178ef9d8-ef52-4c18-859a-15254812c2a4_images.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6006,7 +6006,7 @@
     },
     {
       "Route": "images/252916e4-1bc8-45ba-b90a-78770ba4e664_tải xuống (4).epoz8k7xip.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\252916e4-1bc8-45ba-b90a-78770ba4e664_tải xuống (4).jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\252916e4-1bc8-45ba-b90a-78770ba4e664_tải xuống (4).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6051,7 +6051,7 @@
     },
     {
       "Route": "images/252916e4-1bc8-45ba-b90a-78770ba4e664_tải xuống (4).jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\252916e4-1bc8-45ba-b90a-78770ba4e664_tải xuống (4).jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\252916e4-1bc8-45ba-b90a-78770ba4e664_tải xuống (4).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6088,7 +6088,7 @@
     },
     {
       "Route": "images/2870be8c-482d-4788-abf4-2bf61cd4013e_1003w-5jYTmzVneQk.7ijyjc4s1r.webp",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\2870be8c-482d-4788-abf4-2bf61cd4013e_1003w-5jYTmzVneQk.webp",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\2870be8c-482d-4788-abf4-2bf61cd4013e_1003w-5jYTmzVneQk.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6133,7 +6133,7 @@
     },
     {
       "Route": "images/2870be8c-482d-4788-abf4-2bf61cd4013e_1003w-5jYTmzVneQk.webp",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\2870be8c-482d-4788-abf4-2bf61cd4013e_1003w-5jYTmzVneQk.webp",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\2870be8c-482d-4788-abf4-2bf61cd4013e_1003w-5jYTmzVneQk.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6170,7 +6170,7 @@
     },
     {
       "Route": "images/2d4754c1-5cac-4314-81f6-3fd18dd243d8_39cd9a1fc0bcfb68efa34466bf3edbd5.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\2d4754c1-5cac-4314-81f6-3fd18dd243d8_39cd9a1fc0bcfb68efa34466bf3edbd5.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\2d4754c1-5cac-4314-81f6-3fd18dd243d8_39cd9a1fc0bcfb68efa34466bf3edbd5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6207,7 +6207,7 @@
     },
     {
       "Route": "images/2d4754c1-5cac-4314-81f6-3fd18dd243d8_39cd9a1fc0bcfb68efa34466bf3edbd5.mc1f07r0zh.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\2d4754c1-5cac-4314-81f6-3fd18dd243d8_39cd9a1fc0bcfb68efa34466bf3edbd5.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\2d4754c1-5cac-4314-81f6-3fd18dd243d8_39cd9a1fc0bcfb68efa34466bf3edbd5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6252,7 +6252,7 @@
     },
     {
       "Route": "images/3b4d2632-c4d7-45d4-b257-7e9240971174_tải xuống (2).6kcuyh3403.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\3b4d2632-c4d7-45d4-b257-7e9240971174_tải xuống (2).jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\3b4d2632-c4d7-45d4-b257-7e9240971174_tải xuống (2).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6297,7 +6297,7 @@
     },
     {
       "Route": "images/3b4d2632-c4d7-45d4-b257-7e9240971174_tải xuống (2).jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\3b4d2632-c4d7-45d4-b257-7e9240971174_tải xuống (2).jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\3b4d2632-c4d7-45d4-b257-7e9240971174_tải xuống (2).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6334,7 +6334,7 @@
     },
     {
       "Route": "images/4252c416-6438-4241-99f2-fef6a73dd9f2_Beyond the cover Ngôn tình  (12).jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\4252c416-6438-4241-99f2-fef6a73dd9f2_Beyond the cover Ngôn tình  (12).jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\4252c416-6438-4241-99f2-fef6a73dd9f2_Beyond the cover Ngôn tình  (12).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6371,7 +6371,7 @@
     },
     {
       "Route": "images/4252c416-6438-4241-99f2-fef6a73dd9f2_Beyond the cover Ngôn tình  (12).xl46tz7at8.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\4252c416-6438-4241-99f2-fef6a73dd9f2_Beyond the cover Ngôn tình  (12).jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\4252c416-6438-4241-99f2-fef6a73dd9f2_Beyond the cover Ngôn tình  (12).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6416,7 +6416,7 @@
     },
     {
       "Route": "images/44e72580-5ba7-4e52-bff0-9424d5390f0b_anh-nen-meo-de-thuong_093846627.4nngpw1xhh.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\44e72580-5ba7-4e52-bff0-9424d5390f0b_anh-nen-meo-de-thuong_093846627.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\44e72580-5ba7-4e52-bff0-9424d5390f0b_anh-nen-meo-de-thuong_093846627.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6461,7 +6461,7 @@
     },
     {
       "Route": "images/44e72580-5ba7-4e52-bff0-9424d5390f0b_anh-nen-meo-de-thuong_093846627.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\44e72580-5ba7-4e52-bff0-9424d5390f0b_anh-nen-meo-de-thuong_093846627.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\44e72580-5ba7-4e52-bff0-9424d5390f0b_anh-nen-meo-de-thuong_093846627.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6498,7 +6498,7 @@
     },
     {
       "Route": "images/47f0e7f9-820d-4d0b-86a7-c4e06843270d_6611-triet-hoc-1.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\47f0e7f9-820d-4d0b-86a7-c4e06843270d_6611-triet-hoc-1.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\47f0e7f9-820d-4d0b-86a7-c4e06843270d_6611-triet-hoc-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6535,7 +6535,7 @@
     },
     {
       "Route": "images/47f0e7f9-820d-4d0b-86a7-c4e06843270d_6611-triet-hoc-1.q1up28udsy.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\47f0e7f9-820d-4d0b-86a7-c4e06843270d_6611-triet-hoc-1.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\47f0e7f9-820d-4d0b-86a7-c4e06843270d_6611-triet-hoc-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6580,7 +6580,7 @@
     },
     {
       "Route": "images/57e1ee87-9054-4bb2-8feb-1b2a4157d4a2_tải xuống (2).jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\57e1ee87-9054-4bb2-8feb-1b2a4157d4a2_tải xuống (2).jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\57e1ee87-9054-4bb2-8feb-1b2a4157d4a2_tải xuống (2).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6617,7 +6617,7 @@
     },
     {
       "Route": "images/57e1ee87-9054-4bb2-8feb-1b2a4157d4a2_tải xuống (2).qivwt6xts1.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\57e1ee87-9054-4bb2-8feb-1b2a4157d4a2_tải xuống (2).jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\57e1ee87-9054-4bb2-8feb-1b2a4157d4a2_tải xuống (2).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6662,7 +6662,7 @@
     },
     {
       "Route": "images/6bf29308-0696-4dcd-b4e6-08c2db3639fd_Screenshot 2025-03-31 100739.png",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\6bf29308-0696-4dcd-b4e6-08c2db3639fd_Screenshot 2025-03-31 100739.png",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\6bf29308-0696-4dcd-b4e6-08c2db3639fd_Screenshot 2025-03-31 100739.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6699,7 +6699,7 @@
     },
     {
       "Route": "images/6bf29308-0696-4dcd-b4e6-08c2db3639fd_Screenshot 2025-03-31 100739.yqfzgibnvu.png",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\6bf29308-0696-4dcd-b4e6-08c2db3639fd_Screenshot 2025-03-31 100739.png",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\6bf29308-0696-4dcd-b4e6-08c2db3639fd_Screenshot 2025-03-31 100739.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6744,7 +6744,7 @@
     },
     {
       "Route": "images/6c295237-f124-480e-ab11-1643d0b64c65_c51aa1fc03000b4aa857efe6aa133b44.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\6c295237-f124-480e-ab11-1643d0b64c65_c51aa1fc03000b4aa857efe6aa133b44.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\6c295237-f124-480e-ab11-1643d0b64c65_c51aa1fc03000b4aa857efe6aa133b44.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6781,7 +6781,7 @@
     },
     {
       "Route": "images/6c295237-f124-480e-ab11-1643d0b64c65_c51aa1fc03000b4aa857efe6aa133b44.scwogopovh.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\6c295237-f124-480e-ab11-1643d0b64c65_c51aa1fc03000b4aa857efe6aa133b44.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\6c295237-f124-480e-ab11-1643d0b64c65_c51aa1fc03000b4aa857efe6aa133b44.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6826,7 +6826,7 @@
     },
     {
       "Route": "images/77aa16eb-702d-42d3-b76a-f97fd0a16b0d_tải xuống (4).jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\77aa16eb-702d-42d3-b76a-f97fd0a16b0d_tải xuống (4).jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\77aa16eb-702d-42d3-b76a-f97fd0a16b0d_tải xuống (4).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6863,7 +6863,7 @@
     },
     {
       "Route": "images/77aa16eb-702d-42d3-b76a-f97fd0a16b0d_tải xuống (4).vgfe3mbxm9.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\77aa16eb-702d-42d3-b76a-f97fd0a16b0d_tải xuống (4).jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\77aa16eb-702d-42d3-b76a-f97fd0a16b0d_tải xuống (4).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6908,7 +6908,7 @@
     },
     {
       "Route": "images/865886f2-0876-43fb-b126-91df2c286699_10392-kinh-te-hoc-hai-huoc-1.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\865886f2-0876-43fb-b126-91df2c286699_10392-kinh-te-hoc-hai-huoc-1.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\865886f2-0876-43fb-b126-91df2c286699_10392-kinh-te-hoc-hai-huoc-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6945,7 +6945,7 @@
     },
     {
       "Route": "images/865886f2-0876-43fb-b126-91df2c286699_10392-kinh-te-hoc-hai-huoc-1.zcfm1s6eb8.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\865886f2-0876-43fb-b126-91df2c286699_10392-kinh-te-hoc-hai-huoc-1.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\865886f2-0876-43fb-b126-91df2c286699_10392-kinh-te-hoc-hai-huoc-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6990,7 +6990,7 @@
     },
     {
       "Route": "images/91ed6a98-4a42-4278-a262-3d95577884bb_khoa-hoc-5png-1718762980654519600254.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\91ed6a98-4a42-4278-a262-3d95577884bb_khoa-hoc-5png-1718762980654519600254.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\91ed6a98-4a42-4278-a262-3d95577884bb_khoa-hoc-5png-1718762980654519600254.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7027,7 +7027,7 @@
     },
     {
       "Route": "images/91ed6a98-4a42-4278-a262-3d95577884bb_khoa-hoc-5png-1718762980654519600254.xurghzv90m.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\91ed6a98-4a42-4278-a262-3d95577884bb_khoa-hoc-5png-1718762980654519600254.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\91ed6a98-4a42-4278-a262-3d95577884bb_khoa-hoc-5png-1718762980654519600254.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7072,7 +7072,7 @@
     },
     {
       "Route": "images/946131f3-b1e1-4107-b713-9af3eb1a16f1_anh-cute-001-1.1r7z6zsxwl.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\946131f3-b1e1-4107-b713-9af3eb1a16f1_anh-cute-001-1.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\946131f3-b1e1-4107-b713-9af3eb1a16f1_anh-cute-001-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7117,7 +7117,7 @@
     },
     {
       "Route": "images/946131f3-b1e1-4107-b713-9af3eb1a16f1_anh-cute-001-1.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\946131f3-b1e1-4107-b713-9af3eb1a16f1_anh-cute-001-1.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\946131f3-b1e1-4107-b713-9af3eb1a16f1_anh-cute-001-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7154,7 +7154,7 @@
     },
     {
       "Route": "images/9fb55f1e-7afd-444d-9813-a2a5c70664b7_images.4vmqtzfg1m.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\9fb55f1e-7afd-444d-9813-a2a5c70664b7_images.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\9fb55f1e-7afd-444d-9813-a2a5c70664b7_images.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7199,7 +7199,7 @@
     },
     {
       "Route": "images/9fb55f1e-7afd-444d-9813-a2a5c70664b7_images.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\9fb55f1e-7afd-444d-9813-a2a5c70664b7_images.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\9fb55f1e-7afd-444d-9813-a2a5c70664b7_images.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7236,7 +7236,7 @@
     },
     {
       "Route": "images/9fb579c0-7d37-4c4d-9181-64db37af740e_tải xuống.0e8y7dqnds.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\9fb579c0-7d37-4c4d-9181-64db37af740e_tải xuống.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\9fb579c0-7d37-4c4d-9181-64db37af740e_tải xuống.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7281,7 +7281,7 @@
     },
     {
       "Route": "images/9fb579c0-7d37-4c4d-9181-64db37af740e_tải xuống.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\9fb579c0-7d37-4c4d-9181-64db37af740e_tải xuống.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\9fb579c0-7d37-4c4d-9181-64db37af740e_tải xuống.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7318,7 +7318,7 @@
     },
     {
       "Route": "images/aa89f9ae-faa5-4047-bf4c-2eb9dba11f59_4493-kinh-te-hoc-vi-mo-1.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\aa89f9ae-faa5-4047-bf4c-2eb9dba11f59_4493-kinh-te-hoc-vi-mo-1.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\aa89f9ae-faa5-4047-bf4c-2eb9dba11f59_4493-kinh-te-hoc-vi-mo-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7355,7 +7355,7 @@
     },
     {
       "Route": "images/aa89f9ae-faa5-4047-bf4c-2eb9dba11f59_4493-kinh-te-hoc-vi-mo-1.vnmi5ok9ub.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\aa89f9ae-faa5-4047-bf4c-2eb9dba11f59_4493-kinh-te-hoc-vi-mo-1.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\aa89f9ae-faa5-4047-bf4c-2eb9dba11f59_4493-kinh-te-hoc-vi-mo-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7400,7 +7400,7 @@
     },
     {
       "Route": "images/b60c4c93-e87e-4019-860a-c3c58dd5274d_tải xuống (1).jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\b60c4c93-e87e-4019-860a-c3c58dd5274d_tải xuống (1).jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\b60c4c93-e87e-4019-860a-c3c58dd5274d_tải xuống (1).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7437,7 +7437,7 @@
     },
     {
       "Route": "images/b60c4c93-e87e-4019-860a-c3c58dd5274d_tải xuống (1).n6hjdfptps.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\b60c4c93-e87e-4019-860a-c3c58dd5274d_tải xuống (1).jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\b60c4c93-e87e-4019-860a-c3c58dd5274d_tải xuống (1).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7482,7 +7482,7 @@
     },
     {
       "Route": "images/bfd675c3-ffa2-4ad4-bbca-dad66c469e59_images.dwn0z8ox2y.png",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\bfd675c3-ffa2-4ad4-bbca-dad66c469e59_images.png",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\bfd675c3-ffa2-4ad4-bbca-dad66c469e59_images.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7527,7 +7527,7 @@
     },
     {
       "Route": "images/bfd675c3-ffa2-4ad4-bbca-dad66c469e59_images.png",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\bfd675c3-ffa2-4ad4-bbca-dad66c469e59_images.png",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\bfd675c3-ffa2-4ad4-bbca-dad66c469e59_images.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7564,7 +7564,7 @@
     },
     {
       "Route": "images/c6b7c22d-e128-4f75-ab84-0e2d0e0c1336_anh-cute-001-1.1r7z6zsxwl.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\c6b7c22d-e128-4f75-ab84-0e2d0e0c1336_anh-cute-001-1.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\c6b7c22d-e128-4f75-ab84-0e2d0e0c1336_anh-cute-001-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7609,7 +7609,7 @@
     },
     {
       "Route": "images/c6b7c22d-e128-4f75-ab84-0e2d0e0c1336_anh-cute-001-1.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\c6b7c22d-e128-4f75-ab84-0e2d0e0c1336_anh-cute-001-1.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\c6b7c22d-e128-4f75-ab84-0e2d0e0c1336_anh-cute-001-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7646,7 +7646,7 @@
     },
     {
       "Route": "images/e991fa8c-7236-441a-bfa3-f1b41d99573e_2022_06_07_14_08_56_1-390x510-2.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\e991fa8c-7236-441a-bfa3-f1b41d99573e_2022_06_07_14_08_56_1-390x510-2.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\e991fa8c-7236-441a-bfa3-f1b41d99573e_2022_06_07_14_08_56_1-390x510-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7683,7 +7683,7 @@
     },
     {
       "Route": "images/e991fa8c-7236-441a-bfa3-f1b41d99573e_2022_06_07_14_08_56_1-390x510-2.vfmdw0oyke.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\e991fa8c-7236-441a-bfa3-f1b41d99573e_2022_06_07_14_08_56_1-390x510-2.jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\e991fa8c-7236-441a-bfa3-f1b41d99573e_2022_06_07_14_08_56_1-390x510-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7728,7 +7728,7 @@
     },
     {
       "Route": "images/f237dc21-1855-4421-b94e-1a7c5443f5b8_tải xuống (3).fcfabn0j1w.jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\f237dc21-1855-4421-b94e-1a7c5443f5b8_tải xuống (3).jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\f237dc21-1855-4421-b94e-1a7c5443f5b8_tải xuống (3).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7773,7 +7773,7 @@
     },
     {
       "Route": "images/f237dc21-1855-4421-b94e-1a7c5443f5b8_tải xuống (3).jpg",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\f237dc21-1855-4421-b94e-1a7c5443f5b8_tải xuống (3).jpg",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\f237dc21-1855-4421-b94e-1a7c5443f5b8_tải xuống (3).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7810,7 +7810,7 @@
     },
     {
       "Route": "images/fc7d042a-e9e1-4b7c-89ce-af689e5438b5_cong-nghe.webp",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\fc7d042a-e9e1-4b7c-89ce-af689e5438b5_cong-nghe.webp",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\fc7d042a-e9e1-4b7c-89ce-af689e5438b5_cong-nghe.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7847,7 +7847,7 @@
     },
     {
       "Route": "images/fc7d042a-e9e1-4b7c-89ce-af689e5438b5_cong-nghe.wpoblp5qg8.webp",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\fc7d042a-e9e1-4b7c-89ce-af689e5438b5_cong-nghe.webp",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\images\\fc7d042a-e9e1-4b7c-89ce-af689e5438b5_cong-nghe.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7892,7 +7892,7 @@
     },
     {
       "Route": "js/book.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\book.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\book.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7929,7 +7929,7 @@
     },
     {
       "Route": "js/book.kden0iu3lu.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\book.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\book.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7974,7 +7974,7 @@
     },
     {
       "Route": "js/detail.4631b0lydz.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\detail.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\detail.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8019,7 +8019,7 @@
     },
     {
       "Route": "js/detail.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\detail.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\detail.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8056,7 +8056,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8093,7 +8093,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8138,7 +8138,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8175,7 +8175,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8220,7 +8220,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8257,7 +8257,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8302,7 +8302,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8339,7 +8339,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8384,7 +8384,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8421,7 +8421,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8466,7 +8466,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8503,7 +8503,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8548,7 +8548,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8585,7 +8585,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8630,7 +8630,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8667,7 +8667,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8712,7 +8712,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8749,7 +8749,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8794,7 +8794,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8839,7 +8839,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8876,7 +8876,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8913,7 +8913,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8958,7 +8958,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8995,7 +8995,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9040,7 +9040,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9077,7 +9077,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9122,7 +9122,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9159,7 +9159,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9204,7 +9204,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9241,7 +9241,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9278,7 +9278,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9315,7 +9315,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9360,7 +9360,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9405,7 +9405,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9450,7 +9450,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9495,7 +9495,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9532,7 +9532,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9577,7 +9577,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9614,7 +9614,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9651,7 +9651,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9688,7 +9688,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9733,7 +9733,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9778,7 +9778,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9823,7 +9823,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9860,7 +9860,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9905,7 +9905,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9942,7 +9942,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9979,7 +9979,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10016,7 +10016,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10061,7 +10061,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10106,7 +10106,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10143,7 +10143,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10188,7 +10188,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10225,7 +10225,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10270,7 +10270,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10307,7 +10307,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10344,7 +10344,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10389,7 +10389,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10434,7 +10434,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10471,7 +10471,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10516,7 +10516,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10553,7 +10553,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10590,7 +10590,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10635,7 +10635,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10672,7 +10672,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10717,7 +10717,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10762,7 +10762,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10799,7 +10799,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10844,7 +10844,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10881,7 +10881,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10926,7 +10926,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10971,7 +10971,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11008,7 +11008,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11053,7 +11053,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11090,7 +11090,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11127,7 +11127,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11172,7 +11172,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11209,7 +11209,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11254,7 +11254,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11291,7 +11291,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11328,7 +11328,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11373,7 +11373,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11418,7 +11418,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11455,7 +11455,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11500,7 +11500,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11537,7 +11537,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11574,7 +11574,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11611,7 +11611,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11656,7 +11656,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11701,7 +11701,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11746,7 +11746,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11783,7 +11783,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11828,7 +11828,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11873,7 +11873,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11910,7 +11910,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11955,7 +11955,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12000,7 +12000,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12037,7 +12037,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12074,7 +12074,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12119,7 +12119,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12156,7 +12156,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12201,7 +12201,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12238,7 +12238,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12283,7 +12283,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12320,7 +12320,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12357,7 +12357,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12402,7 +12402,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12439,7 +12439,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12484,7 +12484,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12521,7 +12521,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12566,7 +12566,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12611,7 +12611,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12648,7 +12648,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12693,7 +12693,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12730,7 +12730,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12775,7 +12775,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12812,7 +12812,7 @@
     },
     {
       "Route": "QuanLyThuVien.13ikuvhs2q.bundle.scp.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QuanLyThuVien.bundle.scp.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QuanLyThuVien.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12857,7 +12857,7 @@
     },
     {
       "Route": "QuanLyThuVien.13ikuvhs2q.styles.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\obj\\Debug\\net8.0\\scopedcss\\bundle\\QuanLyThuVien.styles.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\obj\\Debug\\net8.0\\scopedcss\\bundle\\QuanLyThuVien.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12902,7 +12902,7 @@
     },
     {
       "Route": "QuanLyThuVien.bundle.scp.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QuanLyThuVien.bundle.scp.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QuanLyThuVien.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12939,7 +12939,7 @@
     },
     {
       "Route": "QuanLyThuVien.styles.css",
-      "AssetFile": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\obj\\Debug\\net8.0\\scopedcss\\bundle\\QuanLyThuVien.styles.css",
+      "AssetFile": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\obj\\Debug\\net8.0\\scopedcss\\bundle\\QuanLyThuVien.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {

@@ -8497,11 +8497,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\QuanLyThuVien.csproj",
+      "projectUniqueName": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\QuanLyThuVien.csproj",
       "projectName": "QuanLyThuVien",
-      "projectPath": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\QuanLyThuVien.csproj",
+      "projectPath": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\QuanLyThuVien.csproj",
       "packagesPath": "C:\\Users\\thucc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thucc\\Downloads\\QuanLyThuVien\\QuanLyThuVien\\obj\\",
+      "outputPath": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
