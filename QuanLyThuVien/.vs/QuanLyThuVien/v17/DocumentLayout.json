@@ -366,7 +366,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Controllers\\LoanCotroller.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAALQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T17:28:27.296Z"
+              "WhenOpened": "2025-03-29T17:28:27.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -378,7 +379,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Create.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:56:28.668Z"
+              "WhenOpened": "2025-04-02T14:56:28.668Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -390,7 +392,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Create.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:57:14.435Z"
+              "WhenOpened": "2025-04-02T14:57:14.435Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -402,7 +405,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Controllers\\AdminController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T14:53:35.763Z"
+              "WhenOpened": "2025-04-02T14:53:35.763Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -414,7 +418,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Controllers\\BookController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAM4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T15:51:30.153Z"
+              "WhenOpened": "2025-03-27T15:51:30.153Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -424,7 +429,7 @@
               "RelativeDocumentMoniker": "QuanLyThuVien\\Areas\\Admin\\Controllers\\FineController.cs",
               "ToolTip": "C:\\Users\\thucc\\OneDrive\\Documents\\GitHub\\DA_LTW\\QuanLyThuVien\\QuanLyThuVien\\Areas\\Admin\\Controllers\\FineController.cs",
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Controllers\\FineController.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAwwIQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAwwIEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T19:31:53.163Z",
               "EditorCaption": ""
@@ -439,7 +444,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Controllers\\LibraryCardController.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAmwGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T17:11:15.703Z"
+              "WhenOpened": "2025-03-29T17:11:15.703Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -451,7 +457,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAQwFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T16:24:43.38Z"
+              "WhenOpened": "2025-03-27T16:24:43.38Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -463,7 +470,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Models\\HuyUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T19:04:38.725Z"
+              "WhenOpened": "2025-03-29T19:04:38.725Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -475,7 +483,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAmwGsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T19:10:38.346Z"
+              "WhenOpened": "2025-03-29T19:10:38.346Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -487,7 +496,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Models\\SD.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T19:17:07.784Z"
+              "WhenOpened": "2025-03-29T19:17:07.784Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -499,7 +509,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Index.cshtml",
               "ViewState": "AgIAADMAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:56:51.146Z"
+              "WhenOpened": "2025-04-02T14:56:51.146Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -511,7 +522,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Delete.cshtml",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAC8AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:56:32.612Z"
+              "WhenOpened": "2025-04-02T14:56:32.612Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -523,7 +535,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Details.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAADgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:57:21.556Z"
+              "WhenOpened": "2025-04-02T14:57:21.556Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -535,7 +548,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Details.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAIwEoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:56:45.924Z"
+              "WhenOpened": "2025-04-02T14:56:45.924Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -547,7 +561,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Fine\\Edit.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAIwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:56:48.641Z"
+              "WhenOpened": "2025-04-02T14:56:48.641Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -559,7 +574,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:57:17.718Z"
+              "WhenOpened": "2025-04-02T14:57:17.718Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -571,7 +587,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Edit.cshtml",
               "ViewState": "AgIAAB0AAAAAAAAAAAAIwDgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:57:24.987Z"
+              "WhenOpened": "2025-04-02T14:57:24.987Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -583,7 +600,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:57:02.354Z"
+              "WhenOpened": "2025-04-02T14:57:02.354Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -595,7 +613,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\Update.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:57:10.067Z"
+              "WhenOpened": "2025-04-02T14:57:10.067Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -607,7 +626,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\Register.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:57:06.427Z"
+              "WhenOpened": "2025-04-02T14:57:06.427Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -619,7 +639,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Book\\add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:55:34.14Z"
+              "WhenOpened": "2025-04-02T14:55:34.14Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -631,7 +652,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:56:11.996Z"
+              "WhenOpened": "2025-04-02T14:56:11.996Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -643,7 +665,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Book\\index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:56:03.91Z"
+              "WhenOpened": "2025-04-02T14:56:03.91Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -655,7 +678,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAANUAAAAAAAAAAAAAAOQAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-01T15:53:41.861Z"
+              "WhenOpened": "2025-04-01T15:53:41.861Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -667,7 +691,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Controllers\\SachChiTietController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwEAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T14:57:29.781Z"
+              "WhenOpened": "2025-04-04T14:57:29.781Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -679,7 +704,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T15:53:45.593Z"
+              "WhenOpened": "2025-03-27T15:53:45.593Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -691,7 +717,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Book\\Details.cshtml",
               "ViewState": "AgIAAAQAAAAAAAAAAAAuwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:55:55.283Z"
+              "WhenOpened": "2025-04-02T14:55:55.283Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -703,7 +730,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Book\\delete.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:55:51.14Z"
+              "WhenOpened": "2025-04-02T14:55:51.14Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -715,7 +743,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Views\\SachChiTiet\\Index.cshtml",
               "ViewState": "AgIAAEcAAAAAAAAAAAAIwHIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T15:01:36.363Z"
+              "WhenOpened": "2025-04-04T15:01:36.363Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -727,7 +756,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAIwCkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T19:11:25.691Z"
+              "WhenOpened": "2025-03-29T19:11:25.691Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -739,7 +769,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ViewState": "AgIAADgAAAAAAAAAAAAIwFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:57:00.758Z"
+              "WhenOpened": "2025-04-02T14:57:00.758Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -751,7 +782,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAIAAAAAAAAAAAAIwBIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T03:03:10.332Z"
+              "WhenOpened": "2025-03-28T03:03:10.332Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -763,7 +795,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T21:39:49.178Z"
+              "WhenOpened": "2025-04-04T21:39:49.178Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -775,7 +808,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T19:12:16.643Z"
+              "WhenOpened": "2025-03-29T19:12:16.643Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -787,7 +821,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Views\\SachChiTiet\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T20:46:14.199Z"
+              "WhenOpened": "2025-04-04T20:46:14.199Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -799,7 +834,8 @@
               "RelativeToolTip": "QuanLyThuVien\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAJsCAAAAAAAAAIAwwK0CAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-01T15:54:49.442Z"
+              "WhenOpened": "2025-04-01T15:54:49.442Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -811,7 +847,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:56:20.208Z"
+              "WhenOpened": "2025-04-02T14:56:20.208Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -823,7 +860,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Views\\Shared\\_AdminLayout.cshtml",
               "ViewState": "AgIAAGAAAAAAAAAAAAAAADwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T07:38:40.036Z"
+              "WhenOpened": "2025-03-29T07:38:40.036Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -835,7 +873,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Views\\Admin\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-01T16:45:33.207Z"
+              "WhenOpened": "2025-04-01T16:45:33.207Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -847,7 +886,8 @@
               "RelativeToolTip": "QuanLyThuVien\\wwwroot\\js\\book.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-01T15:59:16.219Z"
+              "WhenOpened": "2025-04-01T15:59:16.219Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -859,7 +899,8 @@
               "RelativeToolTip": "QuanLyThuVien\\wwwroot\\js\\detail.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-01T15:59:26.566Z"
+              "WhenOpened": "2025-04-01T15:59:26.566Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -871,7 +912,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Loan\\Index.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:57:28.744Z"
+              "WhenOpened": "2025-04-02T14:57:28.744Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -883,7 +925,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:56:24.167Z"
+              "WhenOpened": "2025-04-02T14:56:24.167Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -895,7 +938,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAAC0AAAAAAAAAAIAwwEIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-28T03:05:54.864Z"
+              "WhenOpened": "2025-03-28T03:05:54.864Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -907,7 +951,8 @@
               "RelativeToolTip": "QuanLyThuVien\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-01T15:16:29.183Z"
+              "WhenOpened": "2025-04-01T15:16:29.183Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -919,7 +964,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Views\\Home\\chitietsach.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-01T15:58:22.518Z"
+              "WhenOpened": "2025-04-01T15:58:22.518Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -931,7 +977,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Repositories\\ILoanRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T17:26:38.747Z"
+              "WhenOpened": "2025-03-29T17:26:38.747Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -943,7 +990,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-01T15:57:58.213Z"
+              "WhenOpened": "2025-04-01T15:57:58.213Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -955,7 +1003,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Repositories\\ILibraryCardRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T03:53:59.029Z"
+              "WhenOpened": "2025-03-28T03:53:59.029Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -967,7 +1016,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Repositories\\IFineRepository.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T14:48:44.718Z"
+              "WhenOpened": "2025-04-04T14:48:44.718Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -979,7 +1029,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Repositories\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T14:48:08.811Z"
+              "WhenOpened": "2025-04-04T14:48:08.811Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -991,7 +1042,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Repositories\\EFLibraryCardRepository.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAQwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T17:31:27.348Z"
+              "WhenOpened": "2025-03-29T17:31:27.348Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1003,7 +1055,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Repositories\\EFFineRepository.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAAQwGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T14:44:55.823Z"
+              "WhenOpened": "2025-04-04T14:44:55.823Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1015,7 +1068,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Repositories\\EFCategoryRepository.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAQwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T16:32:41.688Z"
+              "WhenOpened": "2025-03-27T16:32:41.688Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1027,7 +1081,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Repositories\\EFBookRepository.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAQwEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T16:26:03.941Z"
+              "WhenOpened": "2025-03-27T16:26:03.941Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1039,7 +1094,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Models\\Loan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T17:26:06.509Z"
+              "WhenOpened": "2025-03-29T17:26:06.509Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1051,7 +1107,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Models\\LibraryCard.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T03:41:01.958Z"
+              "WhenOpened": "2025-03-28T03:41:01.958Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1063,7 +1120,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Repositories\\EFLoanRepository.cs",
               "ViewState": "AgIAAFUAAAAAAAAAAAAxwHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T17:26:57.664Z"
+              "WhenOpened": "2025-03-29T17:26:57.664Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1075,7 +1133,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Repositories\\IBookRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T15:56:22.341Z"
+              "WhenOpened": "2025-03-27T15:56:22.341Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1087,7 +1146,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Models\\HuyDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T03:48:17.481Z"
+              "WhenOpened": "2025-03-28T03:48:17.481Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1099,7 +1159,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Models\\Fine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T19:34:38.979Z"
+              "WhenOpened": "2025-03-29T19:34:38.979Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1111,7 +1172,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T16:24:39.522Z"
+              "WhenOpened": "2025-03-27T16:24:39.522Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1123,7 +1185,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T15:56:18.762Z"
+              "WhenOpened": "2025-03-27T15:56:18.762Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1135,7 +1198,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Book\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:55:59.32Z"
+              "WhenOpened": "2025-04-02T14:55:59.32Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1147,7 +1211,8 @@
               "RelativeToolTip": "QuanLyThuVien\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-29T18:44:38.742Z"
+              "WhenOpened": "2025-03-29T18:44:38.742Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1159,7 +1224,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAADsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T03:45:24.894Z"
+              "WhenOpened": "2025-03-28T03:45:24.894Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1171,7 +1237,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250403200148_12.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T20:01:48.858Z"
+              "WhenOpened": "2025-04-03T20:01:48.858Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1183,7 +1250,8 @@
               "RelativeToolTip": "QuanLyThuVien\\wwwroot\\css\\admin.css",
               "ViewState": "AgIAAJkAAAAAAAAAAAAAAKwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-01T16:49:11.444Z"
+              "WhenOpened": "2025-04-01T16:49:11.444Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1195,7 +1263,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T06:08:42.299Z"
+              "WhenOpened": "2025-03-29T06:08:42.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1207,7 +1276,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:55:18.956Z"
+              "WhenOpened": "2025-04-02T14:55:18.956Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1219,7 +1289,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:56:16.116Z"
+              "WhenOpened": "2025-04-02T14:56:16.116Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1231,7 +1302,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Areas\\Admin\\Views\\LibraryCard\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T14:56:57Z"
+              "WhenOpened": "2025-04-02T14:56:57Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1243,7 +1315,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Views\\Shared\\_AdminLayout.cshtml.css",
               "ViewState": "AgIAAOEAAAAAAAAAAAAuwPsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-29T15:06:56.84Z"
+              "WhenOpened": "2025-03-29T15:06:56.84Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1255,7 +1328,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250329195406_11.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T19:54:06.453Z"
+              "WhenOpened": "2025-03-29T19:54:06.453Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1267,7 +1341,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250329191018_ExtendIdentityUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T19:10:18.881Z"
+              "WhenOpened": "2025-03-29T19:10:18.881Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1279,7 +1354,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250329184316_AddIdentity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T18:43:17.138Z"
+              "WhenOpened": "2025-03-29T18:43:17.138Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1303,7 +1379,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250329180120_9.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T18:01:20.703Z"
+              "WhenOpened": "2025-03-29T18:01:20.703Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1315,7 +1392,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250329182057_10.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T18:20:57.271Z"
+              "WhenOpened": "2025-03-29T18:20:57.271Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1327,7 +1405,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250329170537_8.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T17:05:37.851Z"
+              "WhenOpened": "2025-03-29T17:05:37.851Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1339,7 +1418,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250329161217_7.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T16:12:17.898Z"
+              "WhenOpened": "2025-03-29T16:12:17.898Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1351,7 +1431,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250329155432_6.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T15:54:32.835Z"
+              "WhenOpened": "2025-03-29T15:54:32.835Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1363,7 +1444,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250328035743_5.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T03:57:43.247Z"
+              "WhenOpened": "2025-03-28T03:57:43.247Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1375,7 +1457,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250328021525_4.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T02:15:25.809Z"
+              "WhenOpened": "2025-03-28T02:15:25.809Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1387,7 +1470,8 @@
               "RelativeToolTip": "QuanLyThuVien\\Migrations\\20250328015403_3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T01:54:03.514Z"
+              "WhenOpened": "2025-03-28T01:54:03.514Z",
+              "EditorCaption": ""
             }
           ]
         }
